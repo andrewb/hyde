@@ -1,0 +1,291 @@
+#---------------------------------------
+table name {
+	 nameid 9 "Andrew Berry";
+	 nameid 9 1 "Andrew Berry";
+} name;
+
+languagesystem DFLT dflt;
+
+@LETTERS_UC = [
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Acircumflex Adieresis AE Agrave Aogonek Aring Atilde Cacute Ccedilla Cdotaccent Eacute Ecircumflex Edieresis Egrave Eogonek Eth Gdotaccent Hbar Iacute Icircumflex Idieresis Igrave Lslash Nacute Ntilde Oacute Ocircumflex Odieresis OE Ograve Oslash Otilde Racute Sacute Scaron Scedilla Thorn Uacute Ucircumflex Udieresis Ugrave Yacute Ydieresis Zcaron Zdotaccent
+];
+
+@ACCENTS_UC = [
+acute.cap caron.cap circumflex.cap dieresis.cap dotaccent.cap grave.cap ring.cap tilde.cap
+];
+
+@LETTERS_LC = [
+a b c d e f g h i j k l m n o p q r s t u v w x y z aacute acircumflex adieresis ae agrave aogonek aring atilde cacute ccedilla cdotaccent eacute ecircumflex edieresis egrave eogonek eth gdotaccent hbar iacute icircumflex idieresis igrave lslash nacute ntilde oacute ocircumflex odieresis oe ograve oslash otilde racute sacute scaron scedilla thorn uacute ucircumflex udieresis ugrave yacute ydieresis zcaron zdotaccent
+];
+
+@ACCENTS_LC = [
+acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ogonek ring tilde
+];
+
+@LETTERS_SC = [
+a.sc b.sc c.sc d.sc e.sc f.sc g.sc h.sc i.sc j.sc k.sc l.sc m.sc n.sc o.sc p.sc q.sc r.sc s.sc t.sc u.sc v.sc w.sc x.sc y.sc z.sc aacute.sc acircumflex.sc adieresis.sc ae.sc agrave.sc aogonek.sc aring.sc atilde.sc cacute.sc ccedilla.sc cdotaccent.sc eacute.sc ecircumflex.sc edieresis.sc egrave.sc eogonek.sc eth.sc gdotaccent.sc hbar.sc iacute.sc icircumflex.sc idieresis.sc igrave.sc lslash.sc nacute.sc ntilde.sc oacute.sc ocircumflex.sc odieresis.sc oe.sc ograve.sc oslash.sc otilde.sc racute.sc sacute.sc scaron.sc scedilla.sc thorn.sc uacute.sc ucircumflex.sc udieresis.sc ugrave.sc yacute.sc ydieresis.sc zcaron.sc zdotaccent.sc
+];
+
+@LETTERS_SC_CAP = [
+A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc Aacute.sc Acircumflex.sc Adieresis.sc AE.sc Agrave.sc Aogonek.sc Aring.sc Atilde.sc Cacute.sc Ccedilla.sc Cdotaccent.sc Eacute.sc Ecircumflex.sc Edieresis.sc Egrave.sc Eogonek.sc Eth.sc Gdotaccent.sc Hbar.sc Iacute.sc Icircumflex.sc Idieresis.sc Igrave.sc Lslash.sc Nacute.sc Ntilde.sc Oacute.sc Ocircumflex.sc Odieresis.sc OE.sc Ograve.sc Oslash.sc Otilde.sc Racute.sc Sacute.sc Scaron.sc Scedilla.sc Thorn.sc Uacute.sc Ucircumflex.sc Udieresis.sc Ugrave.sc Yacute.sc Ydieresis.sc Zcaron.sc Zdotaccent.sc
+];
+
+@CURRENCY_TAB_LINING = [
+dollar cent sterling yen florin Euro currency
+];
+
+@CURRENCY_FIT_LINING = [
+dollar.fitted cent.fitted sterling.fitted yen.fitted florin.fitted Euro.fitted currency.fitted
+];
+
+@CURRENCY_FIT_OLDSTYLE = [
+dollar.oldstyle cent.oldstyle sterling.oldstyle yen.oldstyle florin.oldstyle Euro.oldstyle currency.oldstyle
+];
+
+@CURRENCY_TAB_OLDSTYLE = [
+dollar.taboldstyle cent.taboldstyle sterling.taboldstyle yen.taboldstyle florin.taboldstyle Euro.taboldstyle currency.taboldstyle
+];
+
+@FIG_TAB_LINING = [
+zero one two three four five six seven eight nine
+];
+
+@FIG_FIT_LINING = [
+zero.fitted one.fitted two.fitted three.fitted four.fitted five.fitted six.fitted seven.fitted eight.fitted nine.fitted
+];
+
+@FIG_FIT_OLDSTYLE = [
+zero.oldstyle one.oldstyle two.oldstyle three.oldstyle four.oldstyle five.oldstyle six.oldstyle seven.oldstyle eight.oldstyle nine.oldstyle
+];
+
+@FIG_TAB_OLDSTYLE = [
+zero.taboldstyle one.taboldstyle two.taboldstyle three.taboldstyle four.taboldstyle five.taboldstyle six.taboldstyle seven.taboldstyle eight.taboldstyle nine.taboldstyle
+];
+
+@FIGURES = [
+@FIG_TAB_LINING @FIG_FIT_LINING @FIG_FIT_OLDSTYLE @FIG_TAB_OLDSTYLE
+];
+
+@FIG_SUPERIOR = [
+zero.superior one.superior two.superior three.superior four.superior five.superior six.superior seven.superior eight.superior nine.superior
+];
+
+@FIG_INFERIOR = [
+zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior
+];
+
+@FIG_NUMERATOR = [
+zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator
+];
+
+@FIG_DENOMINATOR = [
+zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator
+];
+
+@FIG_ONE = [
+one.taboldstyle one.fitted one.oldstyle one.inferior one.superior one.denominator one.numerator
+];
+
+@FIG_TWO = [
+two.taboldstyle two.fitted two.oldstyle two.inferior two.superior two.denominator two.numerator
+];
+
+@FIG_THREE = [
+three.taboldstyle three.fitted three.oldstyle three.inferior three.superior three.denominator three.numerator
+];
+
+@FIG_FOUR = [
+four.taboldstyle four.fitted four.oldstyle four.inferior four.superior four.denominator four.numerator
+];
+
+@FIG_FIVE = [
+five.taboldstyle five.fitted five.oldstyle five.inferior five.superior five.denominator five.numerator
+];
+
+@FIG_SIX = [
+six.taboldstyle six.fitted six.oldstyle six.inferior six.superior six.denominator six.numerator
+];
+
+@FIG_SEVEN = [
+seven.taboldstyle seven.fitted seven.oldstyle seven.inferior seven.superior seven.denominator seven.numerator
+];
+
+@FIG_EIGHT = [
+eight.taboldstyle eight.fitted eight.oldstyle eight.inferior eight.superior eight.denominator eight.numerator
+];
+
+@FIG_NINE = [
+nine.taboldstyle nine.fitted nine.oldstyle nine.inferior nine.superior nine.denominator nine.numerator
+];
+
+@FIG_ZERO = [
+zero.taboldstyle zero.fitted zero.oldstyle zero.inferior zero.superior zero.denominator zero.numerator
+];
+
+feature c2sc {
+	sub [@LETTERS_UC] by [@LETTERS_SC_CAP];
+	sub @FIG_TAB_LINING by @FIG_TAB_OLDSTYLE;
+	sub @FIG_FIT_LINING by @FIG_FIT_OLDSTYLE;
+	sub @CURRENCY_TAB_LINING by @CURRENCY_TAB_OLDSTYLE;
+	sub @CURRENCY_FIT_LINING by @CURRENCY_FIT_OLDSTYLE;
+	sub percent by percent.oldstyle;
+	sub perthousand by perthousand.oldstyle;
+} c2sc;
+
+feature smcp {
+	sub @LETTERS_LC by @LETTERS_SC;
+	sub @LETTERS_UC by @LETTERS_SC;
+} smcp;
+
+feature liga {
+	sub f b by f_b;
+	sub f f b by f_f_b;
+	sub f f by f_f;
+	sub f h by f_h;
+	sub f f h by f_f_h;
+	sub f i by fi;
+	sub f f i by f_f_i;
+	sub f j by f_j;
+	sub f f j by f_f_j;
+	sub f k by f_k;
+	sub f f k by f_f_k;
+	sub f l by fl;
+	sub f f l by f_f_l;
+} liga;
+
+feature dlig {
+	sub y f by y_f;
+	sub y j by y_j;
+} dlig;
+
+feature calt {
+	sub [g gdotaccent j j.alt1 j.alt2 j.alt3 y_j q y yacute ydieresis underscore] j' by j.alt2;
+	sub [g gdotaccent j j.alt1 j.alt2 j.alt3 y_j q y yacute ydieresis underscore] j.alt1' by j.alt2;
+	sub [g gdotaccent j j.alt1 j.alt2 j.alt3 y_j q y yacute ydieresis underscore] f' by f.alt;
+} calt;
+
+feature aalt {
+	feature ss01;
+	feature dlig;
+} aalt;
+
+feature ss01 {
+	sub j by j.alt1;
+	sub j.alt2 by j.alt3;
+} ss01;
+
+
+feature frac {
+
+	@NUMERATOR = [zero.numerator one.numerator two.numerator three.numerator four.numerator five.numerator six.numerator seven.numerator eight.numerator nine.numerator];
+	@DENOMINATOR = [zero.denominator one.denominator two.denominator three.denominator four.denominator five.denominator six.denominator seven.denominator eight.denominator nine.denominator];
+	@PREBUILT = [perthousand percent onequarter onehalf threequarters];
+	
+	lookup FRAC {
+		sub [zero zero.fitted zero.oldstyle zero.taboldstyle zero.superior zero.inferior zero.denominator] by zero.numerator;
+		sub [one one.fitted one.oldstyle one.taboldstyle one.superior one.inferior one.denominator] by one.numerator;
+		sub [two two.fitted two.oldstyle two.taboldstyle two.superior two.inferior two.denominator] by two.numerator;
+		sub [three three.fitted three.oldstyle three.taboldstyle three.superior three.inferior three.denominator] by three.numerator;
+		sub [four four.fitted four.oldstyle four.taboldstyle four.superior four.inferior four.denominator] by four.numerator;
+		sub [five five.fitted five.oldstyle five.taboldstyle five.superior five.inferior five.denominator] by five.numerator;
+		sub [six six.fitted six.oldstyle six.taboldstyle six.superior six.inferior six.denominator] by six.numerator;
+		sub [seven seven.fitted seven.oldstyle seven.taboldstyle seven.superior seven.inferior seven.denominator] by seven.numerator;
+		sub [eight eight.fitted eight.oldstyle eight.taboldstyle eight.superior eight.inferior eight.denominator] by eight.numerator;
+		sub [nine nine.fitted nine.oldstyle nine.taboldstyle nine.superior nine.inferior nine.denominator] by nine.numerator;
+		sub [slash] by fraction;
+	} FRAC;
+	
+	sub zero.numerator' fraction' zero.numerator' zero.numerator' by perthousand;
+	sub zero.numerator' fraction' zero.numerator' by percent;
+	sub one.numerator' fraction' four.numerator' by onequarter;
+	sub one.numerator' fraction' two.numerator' by onehalf;
+	sub three.numerator' fraction' four.numerator' by threequarters;
+	
+	sub [fraction @DENOMINATOR @PREBUILT] @NUMERATOR' by @DENOMINATOR;
+
+} frac;
+
+#---------------------------------------
+feature sups {
+	sub @FIG_TAB_LINING by @FIG_SUPERIOR;
+	sub @FIG_FIT_LINING by @FIG_SUPERIOR;
+	sub @FIG_TAB_OLDSTYLE by @FIG_SUPERIOR;
+	sub @FIG_FIT_OLDSTYLE by @FIG_SUPERIOR;
+	sub @FIG_INFERIOR by @FIG_SUPERIOR;
+	sub @FIG_NUMERATOR by @FIG_SUPERIOR;
+	sub @FIG_DENOMINATOR by @FIG_SUPERIOR;
+} sups;
+
+
+#---------------------------------------
+feature sinf {
+	sub @FIG_TAB_LINING by @FIG_INFERIOR;
+	sub @FIG_FIT_LINING by @FIG_INFERIOR;
+	sub @FIG_FIT_OLDSTYLE by @FIG_INFERIOR;
+	sub @FIG_TAB_OLDSTYLE by @FIG_INFERIOR;
+	sub @FIG_SUPERIOR by @FIG_INFERIOR;
+	sub @FIG_NUMERATOR by @FIG_INFERIOR;
+	sub @FIG_DENOMINATOR by @FIG_INFERIOR;
+} sinf;
+
+
+#---------------------------------------
+feature numr {
+	sub @FIG_TAB_LINING by @FIG_NUMERATOR;
+	sub @FIG_FIT_LINING by @FIG_NUMERATOR;
+	sub @FIG_FIT_OLDSTYLE by @FIG_NUMERATOR;
+	sub @FIG_TAB_OLDSTYLE by @FIG_NUMERATOR;
+	sub @FIG_SUPERIOR by @FIG_NUMERATOR;
+	sub @FIG_INFERIOR by @FIG_NUMERATOR;
+	sub @FIG_DENOMINATOR by @FIG_NUMERATOR;
+} numr;
+
+
+#---------------------------------------
+feature dnom {
+	sub @FIG_TAB_LINING by @FIG_DENOMINATOR;
+	sub @FIG_FIT_LINING by @FIG_DENOMINATOR;
+	sub @FIG_FIT_OLDSTYLE by @FIG_DENOMINATOR;
+	sub @FIG_TAB_OLDSTYLE by @FIG_DENOMINATOR;
+	sub @FIG_SUPERIOR by @FIG_DENOMINATOR;
+	sub @FIG_INFERIOR by @FIG_DENOMINATOR;
+	sub @FIG_NUMERATOR by @FIG_DENOMINATOR;
+} dnom;
+
+
+feature onum {
+	sub @FIG_TAB_LINING by @FIG_TAB_OLDSTYLE;
+	sub @FIG_FIT_LINING by @FIG_FIT_OLDSTYLE;
+	sub @CURRENCY_TAB_LINING by @CURRENCY_TAB_OLDSTYLE;
+	sub @CURRENCY_FIT_LINING by @CURRENCY_FIT_OLDSTYLE;
+	sub percent by percent.oldstyle;
+	sub perthousand by perthousand.oldstyle;
+} onum;
+
+feature lnum {
+	sub @FIG_TAB_OLDSTYLE by @FIG_TAB_LINING;
+	sub @FIG_FIT_OLDSTYLE by @FIG_FIT_LINING;
+	sub @CURRENCY_TAB_OLDSTYLE by @CURRENCY_TAB_LINING;
+	sub @CURRENCY_FIT_OLDSTYLE by @CURRENCY_FIT_LINING;
+	sub percent.oldstyle by percent;
+	sub perthousand.oldstyle by perthousand;
+} lnum;
+
+feature pnum {
+	sub @FIG_TAB_LINING by @FIG_FIT_LINING;
+	sub @FIG_TAB_OLDSTYLE by @FIG_FIT_OLDSTYLE;
+	sub @CURRENCY_TAB_OLDSTYLE by @CURRENCY_FIT_OLDSTYLE;
+	sub @CURRENCY_TAB_LINING by @CURRENCY_FIT_LINING;
+} pnum;
+
+feature tnum {
+	sub @FIG_FIT_LINING by @FIG_TAB_LINING;
+	sub @FIG_FIT_OLDSTYLE by @FIG_TAB_OLDSTYLE;
+	sub @CURRENCY_FIT_LINING by @CURRENCY_TAB_LINING;
+	sub @CURRENCY_FIT_OLDSTYLE by @CURRENCY_TAB_OLDSTYLE;
+} tnum;
+
+feature case {
+	sub percent.oldstyle by percent;
+	sub perthousand.oldstyle by perthousand;
+} case;

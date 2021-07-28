@@ -1,0 +1,3216 @@
+Checking font font.pfa. Start time: Mon Jul  7 00:51:57 2008.
+Checking .notdef
+Checking space
+Checking exclam
+	msg for exclam: Need to fix coincident control points:
+	msg for exclam: 183 190 .. 211 667
+	msg for exclam: Please inspect.
+	msg for exclam: Need to inspect for possible loop/inflection:
+	msg for exclam: 183 190 .. 211 667
+
+	msg for exclam: Need to fix coincident control points:
+	msg for exclam: 91 662 .. 119 190
+	msg for exclam: Please inspect.
+Checking quotedbl
+	msg for quotedbl: Need to inspect unsmoothed transition between
+	msg for quotedbl: 76 460 .. 126 469
+	msg for quotedbl: and
+	msg for quotedbl: 126 469 .. 155 790
+
+	msg for quotedbl: Need to inspect unsmoothed transition between
+	msg for quotedbl: 228 460 .. 278 469
+	msg for quotedbl: and
+	msg for quotedbl: 278 469 .. 307 790
+
+Checking numbersign
+	msg for numbersign: NOTE: 15 intersections found. Please inspect.
+	msg for numbersign: Need to convert straight curve:
+	msg for numbersign: 425 229 .. 434 286
+	msg for numbersign: Done.
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 460 424 .. 491 579
+	msg for numbersign: and
+	msg for numbersign: 491 579 .. 452 598
+
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 460 424 .. 491 579
+	msg for numbersign: and
+	msg for numbersign: 491 579 .. 452 598
+
+	msg for numbersign: Need to convert straight curve:
+	msg for numbersign: 404 422 .. 368 422
+	msg for numbersign: Done.
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 295 423 .. 326 579
+	msg for numbersign: and
+	msg for numbersign: 326 579 .. 287 598
+
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 295 423 .. 326 579
+	msg for numbersign: and
+	msg for numbersign: 326 579 .. 287 598
+
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 191 158 .. 160 6
+	msg for numbersign: and
+	msg for numbersign: 160 6 .. 194 -14
+
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 191 158 .. 160 6
+	msg for numbersign: and
+	msg for numbersign: 160 6 .. 194 -14
+
+	msg for numbersign: Need to convert straight curve:
+	msg for numbersign: 348 160 .. 357 160
+	msg for numbersign: Done.
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 357 160 .. 325 6
+	msg for numbersign: and
+	msg for numbersign: 325 6 .. 359 -14
+
+	msg for numbersign: Need to inspect unsmoothed transition between
+	msg for numbersign: 357 160 .. 325 6
+	msg for numbersign: and
+	msg for numbersign: 325 6 .. 359 -14
+
+	msg for numbersign: Need to convert straight curve:
+	msg for numbersign: 260 229 .. 269 286
+	msg for numbersign: Done.
+	msg for numbersign: Need to convert straight curve:
+	msg for numbersign: 368 354 .. 393 354
+	msg for numbersign: Done.
+	msg for numbersign: Need to convert straight curve:
+	msg for numbersign: 371 228 .. 348 228
+	msg for numbersign: Done.
+Checking dollar
+	msg for dollar: NOTE: 10 intersections found. Please inspect.
+	msg for dollar: Need to convert straight curve:
+	msg for dollar: 353 674 .. 355 747
+	msg for dollar: Done.
+	msg for dollar: Need to convert straight curve:
+	msg for dollar: 282 737 .. 283 673
+	msg for dollar: Done.
+	msg for dollar: Need to fix coincident control points:
+	msg for dollar: 93 29 .. 266 -12
+	msg for dollar: Please inspect.
+	msg for dollar: Need to inspect for possible loop/inflection:
+	msg for dollar: 93 29 .. 266 -12
+
+	msg for dollar: Need to convert straight curve:
+	msg for dollar: 266 -12 .. 263 -105
+	msg for dollar: Done.
+	msg for dollar: Need to inspect unsmoothed transition between
+	msg for dollar: 266 -12 .. 263 -105
+	msg for dollar: and
+	msg for dollar: 263 -105 .. 288 -118
+
+	msg for dollar: Need to convert straight curve:
+	msg for dollar: 341 -101 .. 338 -9
+	msg for dollar: Done.
+Checking percent
+	msg for percent: Need to inspect unsmoothed transition between
+	msg for percent: 494 329 .. 709 691
+	msg for percent: and
+	msg for percent: 709 691 .. 660 724
+
+	msg for percent: Need to inspect unsmoothed transition between
+	msg for percent: 494 329 .. 709 691
+	msg for percent: and
+	msg for percent: 709 691 .. 660 724
+
+Checking ampersand
+	msg for ampersand: NOTE: 5 intersections found. Please inspect.
+	msg for ampersand: Need to inspect unsmoothed transition between
+	msg for ampersand: 463 646 .. 456 669
+	msg for ampersand: and
+	msg for ampersand: 456 669 .. 310 702
+
+	msg for ampersand: Need to inspect unsmoothed transition between
+	msg for ampersand: 463 646 .. 456 669
+	msg for ampersand: and
+	msg for ampersand: 456 669 .. 310 702
+
+Checking quotesingle
+	msg for quotesingle: Need to inspect unsmoothed transition between
+	msg for quotesingle: 76 460 .. 126 469
+	msg for quotesingle: and
+	msg for quotesingle: 126 469 .. 155 790
+
+Checking parenleft
+Checking parenright
+Checking asterisk
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 316 527 .. 477 527
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to inspect for possible loop/inflection:
+	msg for asterisk: 316 527 .. 477 527
+
+	msg for asterisk: Need to convert straight curve:
+	msg for asterisk: 316 527 .. 477 527
+	msg for asterisk: Done.
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 505 622 .. 311 572
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 311 572 .. 367 748
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to inspect for possible loop/inflection:
+	msg for asterisk: 311 572 .. 367 748
+
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 284 787 .. 266 579
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 266 579 .. 114 688
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to inspect for possible loop/inflection:
+	msg for asterisk: 266 579 .. 114 688
+
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 52 617 .. 244 540
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 244 540 .. 95 431
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to inspect for possible loop/inflection:
+	msg for asterisk: 244 540 .. 95 431
+
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 143 347 .. 273 505
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 273 505 .. 332 330
+	msg for asterisk: Please inspect.
+	msg for asterisk: Need to inspect for possible loop/inflection:
+	msg for asterisk: 273 505 .. 332 330
+
+	msg for asterisk: Need to fix coincident control points:
+	msg for asterisk: 427 352 .. 316 527
+	msg for asterisk: Please inspect.
+Checking plus
+Checking comma
+Checking hyphen
+Checking period
+Checking slash
+	msg for slash: Need to inspect unsmoothed transition between
+	msg for slash: 205 335 .. 303 686
+	msg for slash: and
+	msg for slash: 303 686 .. 251 711
+
+	msg for slash: Need to inspect unsmoothed transition between
+	msg for slash: 205 335 .. 303 686
+	msg for slash: and
+	msg for slash: 303 686 .. 251 711
+
+	msg for slash: Need to inspect unsmoothed transition between
+	msg for slash: 142 351 .. 42 -2
+	msg for slash: and
+	msg for slash: 42 -2 .. 95 -25
+
+	msg for slash: Need to inspect unsmoothed transition between
+	msg for slash: 142 351 .. 42 -2
+	msg for slash: and
+	msg for slash: 42 -2 .. 95 -25
+
+Checking zero
+Checking one
+Checking two
+	msg for two: Need to inspect unsmoothed transition between
+	msg for two: 529 89 .. 518 113
+	msg for two: and
+	msg for two: 518 113 .. 292 85
+
+	msg for two: Need to inspect unsmoothed transition between
+	msg for two: 529 89 .. 518 113
+	msg for two: and
+	msg for two: 518 113 .. 292 85
+
+Checking three
+	msg for three: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking four
+	msg for four: Need to inspect unsmoothed transition between
+	msg for four: 339 -32 .. 446 0
+	msg for four: and
+	msg for four: 446 0 .. 438 182
+
+	msg for four: Need to inspect unsmoothed transition between
+	msg for four: 339 -32 .. 446 0
+	msg for four: and
+	msg for four: 446 0 .. 438 182
+
+	msg for four: Need to inspect unsmoothed transition between
+	msg for four: 557 258 .. 546 281
+	msg for four: and
+	msg for four: 546 281 .. 437 254
+
+	msg for four: Need to inspect unsmoothed transition between
+	msg for four: 557 258 .. 546 281
+	msg for four: and
+	msg for four: 546 281 .. 437 254
+
+	msg for four: Need to inspect unsmoothed transition between
+	msg for four: 441 678 .. 324 647
+	msg for four: and
+	msg for four: 324 647 .. 39 229
+
+	msg for four: Need to inspect unsmoothed transition between
+	msg for four: 441 678 .. 324 647
+	msg for four: and
+	msg for four: 324 647 .. 39 229
+
+Checking five
+	msg for five: Need to fix point(s) outside triangle by
+	msg for five: 1 units in X and 0 units in Y :
+	msg for five: 279 644 .. 156 651
+	msg for five: Done.
+	msg for five: Need to fix coincident control points:
+	msg for five: 119 350 .. 141 317
+	msg for five: Please inspect.
+Checking six
+	msg for six: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven
+Checking eight
+	msg for eight: NOTE: 2 intersections found. Please inspect.
+	msg for eight: Need to fix point(s) outside triangle by
+	msg for eight: 0 units in X and 1 units in Y :
+	msg for eight: 347 398 .. 198 526
+	msg for eight: Done.
+	msg for eight: Need to fix point(s) outside triangle by
+	msg for eight: 0 units in X and -1 units in Y :
+	msg for eight: 282 320 .. 445 162
+	msg for eight: Done.
+Checking nine
+	msg for nine: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking colon
+Checking semicolon
+Checking less
+	msg for less: Need to inspect unsmoothed transition between
+	msg for less: 564 445 .. 535 526
+	msg for less: and
+	msg for less: 535 526 .. 69 325
+
+	msg for less: Need to inspect unsmoothed transition between
+	msg for less: 564 445 .. 535 526
+	msg for less: and
+	msg for less: 535 526 .. 69 325
+
+Checking equal
+Checking greater
+	msg for greater: Need to inspect unsmoothed transition between
+	msg for greater: 527 325 .. 61 526
+	msg for greater: and
+	msg for greater: 61 526 .. 32 445
+
+	msg for greater: Need to inspect unsmoothed transition between
+	msg for greater: 527 325 .. 61 526
+	msg for greater: and
+	msg for greater: 61 526 .. 32 445
+
+Checking question
+Checking at
+Checking A
+	msg for A: NOTE: 5 intersections found. Please inspect.
+Checking B
+Checking C
+Checking D
+Checking E
+	msg for E: NOTE: 2 intersections found. Please inspect.
+Checking F
+	msg for F: NOTE: 2 intersections found. Please inspect.
+Checking G
+Checking H
+	msg for H: NOTE: 4 intersections found. Please inspect.
+Checking I
+Checking J
+Checking K
+	msg for K: NOTE: 4 intersections found. Please inspect.
+	msg for K: Need to convert straight curve:
+	msg for K: 223 265 .. 294 336
+	msg for K: Done.
+Checking L
+Checking M
+	msg for M: Need to fix coincident control points:
+	msg for M: 490 184 .. 280 676
+	msg for M: Please inspect.
+	msg for M: Need to inspect for possible loop/inflection:
+	msg for M: 490 184 .. 280 676
+
+	msg for M: Need to fix coincident control points:
+	msg for M: 210 556 .. 447 4
+	msg for M: Please inspect.
+Checking N
+	msg for N: Need to fix coincident control points:
+	msg for N: 605 151 .. 262 676
+	msg for N: Please inspect.
+	msg for N: Need to inspect for possible loop/inflection:
+	msg for N: 605 151 .. 262 676
+
+	msg for N: Need to fix point(s) outside triangle by
+	msg for N: -2 units in X and 0 units in Y :
+	msg for N: 262 676 .. 244 690
+	msg for N: Done.
+	msg for N: Need to fix coincident control points:
+	msg for N: 653 -2 .. 664 24
+	msg for N: Please inspect.
+Checking O
+Checking P
+Checking Q
+	msg for Q: NOTE: 2 intersections found. Please inspect.
+Checking R
+Checking S
+	msg for S: Need to fix coincident control points:
+	msg for S: 470 673 .. 278 702
+	msg for S: Please inspect.
+	msg for S: Need to inspect for possible loop/inflection:
+	msg for S: 470 673 .. 278 702
+
+Checking T
+Checking U
+Checking V
+	msg for V: Need to fix coincident control points:
+	msg for V: 105 603 .. 334 0
+	msg for V: Please inspect.
+	msg for V: Need to fix coincident control points:
+	msg for V: 375 -9 .. 421 -2
+	msg for V: Please inspect.
+	msg for V: Need to fix coincident control points:
+	msg for V: 421 -2 .. 642 565
+	msg for V: Please inspect.
+	msg for V: Need to inspect for possible loop/inflection:
+	msg for V: 421 -2 .. 642 565
+
+Checking W
+	msg for W: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+	msg for W: Need to fix coincident control points:
+	msg for W: 99 612 .. 304 0
+	msg for W: Please inspect.
+	msg for W: Need to fix coincident control points:
+	msg for W: 355 -9 .. 413 -2
+	msg for W: Please inspect.
+	msg for W: Need to fix coincident control points:
+	msg for W: 735 -9 .. 793 -2
+	msg for W: Please inspect.
+	msg for W: Need to fix coincident control points:
+	msg for W: 793 -2 .. 975 548
+	msg for W: Please inspect.
+	msg for W: Need to inspect for possible loop/inflection:
+	msg for W: 793 -2 .. 975 548
+
+Checking X
+Checking Y
+	msg for Y: Need to fix coincident control points:
+	msg for Y: 105 607 .. 302 289
+	msg for Y: Please inspect.
+	msg for Y: Need to inspect unsmoothed transition between
+	msg for Y: 420 63 .. 401 315
+	msg for Y: and
+	msg for Y: 401 315 .. 585 594
+
+	msg for Y: Need to inspect unsmoothed transition between
+	msg for Y: 420 63 .. 401 315
+	msg for Y: and
+	msg for Y: 401 315 .. 585 594
+
+Checking Z
+	msg for Z: Need to fix coincident control points:
+	msg for Z: 185 57 .. 588 648
+	msg for Z: Please inspect.
+	msg for Z: Need to inspect for possible loop/inflection:
+	msg for Z: 185 57 .. 588 648
+
+	msg for Z: Need to fix coincident control points:
+	msg for Z: 442 624 .. 43 26
+	msg for Z: Please inspect.
+	msg for Z: Need to inspect for possible loop/inflection:
+	msg for Z: 442 624 .. 43 26
+
+Checking bracketleft
+Checking backslash
+	msg for backslash: Need to inspect unsmoothed transition between
+	msg for backslash: 250 -25 .. 303 -2
+	msg for backslash: and
+	msg for backslash: 303 -2 .. 203 351
+
+	msg for backslash: Need to inspect unsmoothed transition between
+	msg for backslash: 250 -25 .. 303 -2
+	msg for backslash: and
+	msg for backslash: 303 -2 .. 203 351
+
+	msg for backslash: Need to inspect unsmoothed transition between
+	msg for backslash: 94 711 .. 42 686
+	msg for backslash: and
+	msg for backslash: 42 686 .. 140 335
+
+	msg for backslash: Need to inspect unsmoothed transition between
+	msg for backslash: 94 711 .. 42 686
+	msg for backslash: and
+	msg for backslash: 42 686 .. 140 335
+
+Checking bracketright
+Checking asciicircum
+	msg for asciicircum: Need to inspect unsmoothed transition between
+	msg for asciicircum: 336 765 .. 297 757
+	msg for asciicircum: and
+	msg for asciicircum: 297 757 .. 52 283
+
+	msg for asciicircum: Need to inspect unsmoothed transition between
+	msg for asciicircum: 336 765 .. 297 757
+	msg for asciicircum: and
+	msg for asciicircum: 297 757 .. 52 283
+
+	msg for asciicircum: Need to inspect unsmoothed transition between
+	msg for asciicircum: 621 283 .. 375 757
+	msg for asciicircum: and
+	msg for asciicircum: 375 757 .. 336 765
+
+	msg for asciicircum: Need to inspect unsmoothed transition between
+	msg for asciicircum: 621 283 .. 375 757
+	msg for asciicircum: and
+	msg for asciicircum: 375 757 .. 336 765
+
+Checking underscore
+Checking grave
+Checking a
+	msg for a: Need to inspect unsmoothed transition between
+	msg for a: 302 191 .. 294 115
+	msg for a: and
+	msg for a: 294 115 .. 199 67
+
+	msg for a: Need to inspect unsmoothed transition between
+	msg for a: 302 191 .. 294 115
+	msg for a: and
+	msg for a: 294 115 .. 199 67
+
+Checking b
+Checking c
+Checking d
+	msg for d: Need to fix point(s) outside triangle by
+	msg for d: -2 units in X and 0 units in Y :
+	msg for d: 229 -9 .. 400 73
+	msg for d: Done.
+Checking e
+Checking f
+Checking g
+	msg for g: NOTE: 5 intersections found. Please inspect.
+Checking h
+	msg for h: Need to fix point(s) outside triangle by
+	msg for h: 2 units in X and 0 units in Y :
+	msg for h: 338 -5 .. 436 0
+	msg for h: Done.
+Checking i
+	msg for i: Need to fix wrong orientation on subpath with original moveto at 211 478
+	msg for i: Done.
+Checking j
+	msg for j: Need to inspect unsmoothed transition between
+	msg for j: 207 40 .. 32 -235
+	msg for j: and
+	msg for j: 32 -235 .. 11 -190
+
+	msg for j: Need to inspect unsmoothed transition between
+	msg for j: 207 40 .. 32 -235
+	msg for j: and
+	msg for j: 32 -235 .. 11 -190
+
+	msg for j: Need to fix wrong orientation on subpath with original moveto at 211 478
+	msg for j: Done.
+Checking k
+	msg for k: NOTE: 4 intersections found. Please inspect.
+Checking l
+Checking m
+	msg for m: NOTE: 2 intersections found. Please inspect.
+	msg for m: Need to fix point(s) outside triangle by
+	msg for m: 2 units in X and 0 units in Y :
+	msg for m: 344 -5 .. 442 0
+	msg for m: Done.
+	msg for m: Need to fix point(s) outside triangle by
+	msg for m: 2 units in X and 0 units in Y :
+	msg for m: 634 -5 .. 732 0
+	msg for m: Done.
+Checking n
+	msg for n: Need to fix point(s) outside triangle by
+	msg for n: 2 units in X and 0 units in Y :
+	msg for n: 354 -5 .. 452 0
+	msg for n: Done.
+Checking o
+Checking p
+Checking q
+	msg for q: Need to inspect unsmoothed transition between
+	msg for q: 477 483 .. 400 474
+	msg for q: and
+	msg for q: 400 474 .. 313 489
+
+	msg for q: Need to inspect unsmoothed transition between
+	msg for q: 477 483 .. 400 474
+	msg for q: and
+	msg for q: 400 474 .. 313 489
+
+Checking r
+	msg for r: Need to inspect unsmoothed transition between
+	msg for r: 203 194 .. 209 345
+	msg for r: and
+	msg for r: 209 345 .. 274 393
+
+	msg for r: Need to inspect unsmoothed transition between
+	msg for r: 203 194 .. 209 345
+	msg for r: and
+	msg for r: 209 345 .. 274 393
+
+Checking s
+Checking t
+	msg for t: Need to fix coincident control points:
+	msg for t: 195 476 .. 203 598
+	msg for t: Please inspect.
+	msg for t: Need to inspect for possible loop/inflection:
+	msg for t: 195 476 .. 203 598
+
+Checking u
+Checking v
+	msg for v: Need to fix coincident control points:
+	msg for v: 250 -4 .. 273 -9
+	msg for v: Please inspect.
+	msg for v: Need to inspect for possible loop/inflection:
+	msg for v: 250 -4 .. 273 -9
+
+	msg for v: Need to fix coincident control points:
+	msg for v: 273 -9 .. 301 -4
+	msg for v: Please inspect.
+Checking w
+	msg for w: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+	msg for w: Need to fix coincident control points:
+	msg for w: 226 -3 .. 249 -8
+	msg for w: Please inspect.
+	msg for w: Need to inspect for possible loop/inflection:
+	msg for w: 226 -3 .. 249 -8
+
+	msg for w: Need to fix coincident control points:
+	msg for w: 249 -8 .. 277 -3
+	msg for w: Please inspect.
+	msg for w: Need to fix coincident control points:
+	msg for w: 527 -3 .. 550 -8
+	msg for w: Please inspect.
+	msg for w: Need to inspect for possible loop/inflection:
+	msg for w: 527 -3 .. 550 -8
+
+	msg for w: Need to fix coincident control points:
+	msg for w: 550 -8 .. 578 -3
+	msg for w: Please inspect.
+Checking x
+	msg for x: NOTE: 4 intersections found. Please inspect.
+Checking y
+	msg for y: Need to fix coincident control points:
+	msg for y: 205 -230 .. 452 345
+	msg for y: Please inspect.
+Checking z
+Checking braceleft
+Checking bar
+Checking braceright
+Checking asciitilde
+Checking Adieresis
+	msg for Adieresis: NOTE: 5 intersections found. Please inspect.
+Checking Aring
+	msg for Aring: NOTE: 5 intersections found. Please inspect.
+Checking Ccedilla
+	msg for Ccedilla: NOTE: 2 intersections found. Please inspect.
+	msg for Ccedilla: Need to inspect unsmoothed transition between
+	msg for Ccedilla: 322 -245 .. 347 -285
+	msg for Ccedilla: and
+	msg for Ccedilla: 347 -285 .. 495 -107
+
+	msg for Ccedilla: Need to inspect unsmoothed transition between
+	msg for Ccedilla: 322 -245 .. 347 -285
+	msg for Ccedilla: and
+	msg for Ccedilla: 347 -285 .. 495 -107
+
+Checking Eacute
+	msg for Eacute: NOTE: 2 intersections found. Please inspect.
+Checking Ntilde
+	msg for Ntilde: Need to fix coincident control points:
+	msg for Ntilde: 664 24 .. 653 -2
+	msg for Ntilde: Please inspect.
+	msg for Ntilde: Need to inspect for possible loop/inflection:
+	msg for Ntilde: 664 24 .. 653 -2
+
+	msg for Ntilde: Need to fix point(s) outside triangle by
+	msg for Ntilde: -2 units in X and 0 units in Y :
+	msg for Ntilde: 244 690 .. 262 676
+	msg for Ntilde: Done.
+	msg for Ntilde: Need to fix coincident control points:
+	msg for Ntilde: 262 676 .. 605 151
+	msg for Ntilde: Please inspect.
+	msg for Ntilde: Need to fix wrong orientation on subpath with original moveto at 588 614
+	msg for Ntilde: Done.
+Checking Odieresis
+Checking Udieresis
+	msg for Udieresis: Need to fix wrong orientation on subpath with original moveto at 299 688
+	msg for Udieresis: Done.
+Checking aacute
+	msg for aacute: Need to inspect unsmoothed transition between
+	msg for aacute: 302 191 .. 294 115
+	msg for aacute: and
+	msg for aacute: 294 115 .. 199 67
+
+	msg for aacute: Need to inspect unsmoothed transition between
+	msg for aacute: 302 191 .. 294 115
+	msg for aacute: and
+	msg for aacute: 294 115 .. 199 67
+
+Checking agrave
+	msg for agrave: Need to inspect unsmoothed transition between
+	msg for agrave: 302 191 .. 294 115
+	msg for agrave: and
+	msg for agrave: 294 115 .. 199 67
+
+	msg for agrave: Need to inspect unsmoothed transition between
+	msg for agrave: 302 191 .. 294 115
+	msg for agrave: and
+	msg for agrave: 294 115 .. 199 67
+
+Checking acircumflex
+	msg for acircumflex: Need to inspect unsmoothed transition between
+	msg for acircumflex: 302 191 .. 294 115
+	msg for acircumflex: and
+	msg for acircumflex: 294 115 .. 199 67
+
+	msg for acircumflex: Need to inspect unsmoothed transition between
+	msg for acircumflex: 302 191 .. 294 115
+	msg for acircumflex: and
+	msg for acircumflex: 294 115 .. 199 67
+
+Checking adieresis
+	msg for adieresis: Need to inspect unsmoothed transition between
+	msg for adieresis: 302 191 .. 294 115
+	msg for adieresis: and
+	msg for adieresis: 294 115 .. 199 67
+
+	msg for adieresis: Need to inspect unsmoothed transition between
+	msg for adieresis: 302 191 .. 294 115
+	msg for adieresis: and
+	msg for adieresis: 294 115 .. 199 67
+
+Checking atilde
+	msg for atilde: Need to inspect unsmoothed transition between
+	msg for atilde: 302 191 .. 294 115
+	msg for atilde: and
+	msg for atilde: 294 115 .. 199 67
+
+	msg for atilde: Need to inspect unsmoothed transition between
+	msg for atilde: 302 191 .. 294 115
+	msg for atilde: and
+	msg for atilde: 294 115 .. 199 67
+
+Checking aring
+	msg for aring: Need to inspect unsmoothed transition between
+	msg for aring: 302 191 .. 294 115
+	msg for aring: and
+	msg for aring: 294 115 .. 199 67
+
+	msg for aring: Need to inspect unsmoothed transition between
+	msg for aring: 302 191 .. 294 115
+	msg for aring: and
+	msg for aring: 294 115 .. 199 67
+
+Checking ccedilla
+	msg for ccedilla: NOTE: 2 intersections found. Please inspect.
+	msg for ccedilla: Need to inspect unsmoothed transition between
+	msg for ccedilla: 194 -245 .. 219 -285
+	msg for ccedilla: and
+	msg for ccedilla: 219 -285 .. 367 -107
+
+	msg for ccedilla: Need to inspect unsmoothed transition between
+	msg for ccedilla: 194 -245 .. 219 -285
+	msg for ccedilla: and
+	msg for ccedilla: 219 -285 .. 367 -107
+
+Checking eacute
+Checking egrave
+Checking ecircumflex
+Checking edieresis
+Checking iacute
+Checking igrave
+Checking icircumflex
+Checking idieresis
+Checking ntilde
+	msg for ntilde: Need to fix point(s) outside triangle by
+	msg for ntilde: 2 units in X and 0 units in Y :
+	msg for ntilde: 452 0 .. 354 -5
+	msg for ntilde: Done.
+	msg for ntilde: Need to fix wrong orientation on subpath with original moveto at 30 432
+	msg for ntilde: Done.
+Checking oacute
+Checking ograve
+Checking ocircumflex
+Checking odieresis
+Checking otilde
+Checking uacute
+	msg for uacute: Need to fix wrong orientation on subpath with original moveto at 316 432
+	msg for uacute: Done.
+Checking ugrave
+Checking ucircumflex
+Checking udieresis
+	msg for udieresis: Need to fix wrong orientation on subpath with original moveto at 316 432
+	msg for udieresis: Done.
+Checking dagger
+	msg for dagger: NOTE: 4 intersections found. Please inspect.
+	msg for dagger: Need to fix coincident control points:
+	msg for dagger: 172 656 .. 204 418
+	msg for dagger: Please inspect.
+	msg for dagger: Need to inspect for possible loop/inflection:
+	msg for dagger: 172 656 .. 204 418
+
+	msg for dagger: Need to fix point(s) outside triangle by
+	msg for dagger: -2 units in X and 0 units in Y :
+	msg for dagger: 58 360 .. 204 367
+	msg for dagger: Done.
+	msg for dagger: Need to fix point(s) outside triangle by
+	msg for dagger: 1 units in X and 0 units in Y :
+	msg for dagger: 266 367 .. 408 360
+	msg for dagger: Done.
+Checking degree
+Checking cent
+	msg for cent: NOTE: 7 intersections found. Please inspect.
+	msg for cent: Need to convert straight curve:
+	msg for cent: 292 652 .. 294 563
+	msg for cent: Done.
+Checking sterling
+	msg for sterling: NOTE: 5 intersections found. Please inspect.
+	msg for sterling: Need to fix coincident control points:
+	msg for sterling: 96 60 .. 79 0
+	msg for sterling: Please inspect.
+	msg for sterling: Need to inspect for possible loop/inflection:
+	msg for sterling: 96 60 .. 79 0
+
+	msg for sterling: Need to inspect unsmoothed transition between
+	msg for sterling: 368 -27 .. 576 118
+	msg for sterling: and
+	msg for sterling: 576 118 .. 533 153
+
+	msg for sterling: Need to inspect unsmoothed transition between
+	msg for sterling: 368 -27 .. 576 118
+	msg for sterling: and
+	msg for sterling: 576 118 .. 533 153
+
+Checking section
+	msg for section: NOTE: 3 intersections found. Please inspect.
+	msg for section: Need to fix coincident control points:
+	msg for section: 440 675 .. 277 702
+	msg for section: Please inspect.
+	msg for section: Need to inspect for possible loop/inflection:
+	msg for section: 440 675 .. 277 702
+
+Checking bullet
+Checking paragraph
+Checking germandbls
+Checking registered
+	msg for registered: Need to fix coincident control points:
+	msg for registered: 200 579 .. 149 580
+	msg for registered: Please inspect.
+	msg for registered: Need to inspect unsmoothed transition between
+	msg for registered: 257 358 .. 237 366
+	msg for registered: and
+	msg for registered: 237 366 .. 230 447
+
+Checking copyright
+	msg for copyright: Need to fix point(s) outside triangle by
+	msg for copyright: 3 units in X and 0 units in Y :
+	msg for copyright: 556 279 .. 528 276
+	msg for copyright: Done.
+Checking trademark
+	msg for trademark: Need to fix coincident control points:
+	msg for trademark: 753 409 .. 640 679
+	msg for trademark: Please inspect.
+	msg for trademark: Need to inspect for possible loop/inflection:
+	msg for trademark: 753 409 .. 640 679
+
+	msg for trademark: Need to fix coincident control points:
+	msg for trademark: 584 590 .. 720 274
+	msg for trademark: Please inspect.
+Checking acute
+Checking dieresis
+Checking notequal
+	msg for notequal: NOTE: 8 intersections found. Please inspect.
+	msg for notequal: Need to convert straight curve:
+	msg for notequal: 302 223 .. 325 273
+	msg for notequal: Done.
+	msg for notequal: Need to inspect unsmoothed transition between
+	msg for notequal: 397 423 .. 438 504
+	msg for notequal: and
+	msg for notequal: 438 504 .. 390 536
+
+	msg for notequal: Need to inspect unsmoothed transition between
+	msg for notequal: 397 423 .. 438 504
+	msg for notequal: and
+	msg for notequal: 438 504 .. 390 536
+
+	msg for notequal: Need to convert straight curve:
+	msg for notequal: 327 422 .. 294 422
+	msg for notequal: Done.
+	msg for notequal: Need to convert straight curve:
+	msg for notequal: 294 353 .. 296 353
+	msg for notequal: Done.
+	msg for notequal: Need to convert straight curve:
+	msg for notequal: 296 353 .. 272 300
+	msg for notequal: Done.
+	msg for notequal: Need to inspect unsmoothed transition between
+	msg for notequal: 201 153 .. 158 69
+	msg for notequal: and
+	msg for notequal: 158 69 .. 213 35
+
+	msg for notequal: Need to inspect unsmoothed transition between
+	msg for notequal: 201 153 .. 158 69
+	msg for notequal: and
+	msg for notequal: 158 69 .. 213 35
+
+	msg for notequal: Need to convert straight curve:
+	msg for notequal: 271 154 .. 294 154
+	msg for notequal: Done.
+Checking AE
+	msg for AE: NOTE: 7 intersections found. Please inspect.
+Checking Oslash
+	msg for Oslash: NOTE: 6 intersections found. Please inspect.
+	msg for Oslash: Need to convert straight curve:
+	msg for Oslash: 148 74 .. 94 1
+	msg for Oslash: Done.
+	msg for Oslash: Need to convert straight curve:
+	msg for Oslash: 151 -39 .. 202 32
+	msg for Oslash: Done.
+Checking infinity
+	msg for infinity: NOTE: 2 intersections found. Please inspect.
+Checking plusminus
+Checking lessequal
+	msg for lessequal: Need to inspect unsmoothed transition between
+	msg for lessequal: 564 435 .. 535 516
+	msg for lessequal: and
+	msg for lessequal: 535 516 .. 69 325
+
+	msg for lessequal: Need to inspect unsmoothed transition between
+	msg for lessequal: 564 435 .. 535 516
+	msg for lessequal: and
+	msg for lessequal: 535 516 .. 69 325
+
+Checking greaterequal
+	msg for greaterequal: Need to inspect unsmoothed transition between
+	msg for greaterequal: 527 325 .. 61 516
+	msg for greaterequal: and
+	msg for greaterequal: 61 516 .. 32 435
+
+	msg for greaterequal: Need to inspect unsmoothed transition between
+	msg for greaterequal: 527 325 .. 61 516
+	msg for greaterequal: and
+	msg for greaterequal: 61 516 .. 32 435
+
+Checking yen
+	msg for yen: NOTE: 8 intersections found. Please inspect.
+	msg for yen: Need to fix coincident control points:
+	msg for yen: 316 363 .. 189 605
+	msg for yen: Please inspect.
+	msg for yen: Need to inspect for possible loop/inflection:
+	msg for yen: 316 363 .. 189 605
+
+	msg for yen: Need to convert straight curve:
+	msg for yen: 259 263 .. 259 208
+	msg for yen: Done.
+	msg for yen: Need to convert straight curve:
+	msg for yen: 349 209 .. 348 263
+	msg for yen: Done.
+Checking mu
+	msg for mu: Need to inspect unsmoothed transition between
+	msg for mu: 130 -232 .. 209 -189
+	msg for mu: and
+	msg for mu: 209 -189 .. 154 38
+
+	msg for mu: Need to inspect unsmoothed transition between
+	msg for mu: 130 -232 .. 209 -189
+	msg for mu: and
+	msg for mu: 209 -189 .. 154 38
+
+Checking partialdiff
+	msg for partialdiff: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+	msg for partialdiff: Need to inspect unsmoothed transition between
+	msg for partialdiff: 317 411 .. 439 299
+	msg for partialdiff: and
+	msg for partialdiff: 439 299 .. 243 43
+
+	msg for partialdiff: Need to inspect unsmoothed transition between
+	msg for partialdiff: 317 411 .. 439 299
+	msg for partialdiff: and
+	msg for partialdiff: 439 299 .. 243 43
+
+Checking summation
+Checking product
+	msg for product: Need to fix coincident control points:
+	msg for product: 575 684 .. 201 684
+	msg for product: Please inspect.
+	msg for product: Need to inspect for possible loop/inflection:
+	msg for product: 575 684 .. 201 684
+
+	msg for product: Need to convert straight curve:
+	msg for product: 575 684 .. 201 684
+	msg for product: Done.
+Checking pi
+	msg for pi: NOTE: 4 intersections found. Please inspect.
+	msg for pi: Need to convert straight curve:
+	msg for pi: 45 398 .. 165 398
+	msg for pi: Done.
+	msg for pi: Need to convert straight curve:
+	msg for pi: 241 399 .. 350 399
+	msg for pi: Done.
+	msg for pi: Need to fix point(s) outside triangle by
+	msg for pi: 0 units in X and -5 units in Y :
+	msg for pi: 350 399 .. 318 80
+	msg for pi: Done.
+Checking integral
+Checking ordfeminine
+Checking ordmasculine
+Checking uni2126
+Checking ae
+Checking oslash
+	msg for oslash: NOTE: 6 intersections found. Please inspect.
+	msg for oslash: Need to convert straight curve:
+	msg for oslash: 99 56 .. 51 -8
+	msg for oslash: Done.
+	msg for oslash: Need to convert straight curve:
+	msg for oslash: 98 -43 .. 144 20
+	msg for oslash: Done.
+Checking questiondown
+Checking exclamdown
+	msg for exclamdown: Need to fix coincident control points:
+	msg for exclamdown: 185 273 .. 213 -199
+	msg for exclamdown: Please inspect.
+	msg for exclamdown: Need to inspect for possible loop/inflection:
+	msg for exclamdown: 185 273 .. 213 -199
+
+	msg for exclamdown: Need to fix coincident control points:
+	msg for exclamdown: 93 -204 .. 121 273
+	msg for exclamdown: Please inspect.
+	msg for exclamdown: Need to fix wrong orientation on subpath with original moveto at 121 273
+	msg for exclamdown: Done.
+Checking logicalnot
+Checking radical
+	msg for radical: Need to inspect unsmoothed transition between
+	msg for radical: 442 -140 .. 597 782
+	msg for radical: and
+	msg for radical: 597 782 .. 528 801
+
+	msg for radical: Need to inspect unsmoothed transition between
+	msg for radical: 442 -140 .. 597 782
+	msg for radical: and
+	msg for radical: 597 782 .. 528 801
+
+	msg for radical: Need to fix coincident control points:
+	msg for radical: 199 334 .. 10 240
+	msg for radical: Please inspect.
+	msg for radical: Need to fix coincident control points:
+	msg for radical: 30 199 .. 144 243
+	msg for radical: Please inspect.
+	msg for radical: Need to inspect for possible loop/inflection:
+	msg for radical: 30 199 .. 144 243
+
+Checking florin
+	msg for florin: NOTE: 4 intersections found. Please inspect.
+Checking approxequal
+Checking uni2206
+	msg for uni2206: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking guillemotleft
+Checking guillemotright
+Checking ellipsis
+Checking Agrave
+	msg for Agrave: NOTE: 5 intersections found. Please inspect.
+Checking Atilde
+	msg for Atilde: NOTE: 5 intersections found. Please inspect.
+Checking Otilde
+Checking OE
+Checking oe
+Checking endash
+Checking emdash
+Checking quotedblleft
+Checking quotedblright
+Checking quoteleft
+Checking quoteright
+Checking divide
+Checking lozenge
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 336 -162 .. 375 -154
+	msg for lozenge: and
+	msg for lozenge: 375 -154 .. 630 270
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 336 -162 .. 375 -154
+	msg for lozenge: and
+	msg for lozenge: 375 -154 .. 630 270
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 630 270 .. 375 694
+	msg for lozenge: and
+	msg for lozenge: 375 694 .. 336 702
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 630 270 .. 375 694
+	msg for lozenge: and
+	msg for lozenge: 375 694 .. 336 702
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 336 702 .. 297 694
+	msg for lozenge: and
+	msg for lozenge: 297 694 .. 42 270
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 336 702 .. 297 694
+	msg for lozenge: and
+	msg for lozenge: 297 694 .. 42 270
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 42 270 .. 297 -154
+	msg for lozenge: and
+	msg for lozenge: 297 -154 .. 336 -162
+
+	msg for lozenge: Need to inspect unsmoothed transition between
+	msg for lozenge: 42 270 .. 297 -154
+	msg for lozenge: and
+	msg for lozenge: 297 -154 .. 336 -162
+
+Checking ydieresis
+	msg for ydieresis: Need to fix coincident control points:
+	msg for ydieresis: 455 345 .. 208 -230
+	msg for ydieresis: Please inspect.
+	msg for ydieresis: Need to inspect for possible loop/inflection:
+	msg for ydieresis: 455 345 .. 208 -230
+
+	msg for ydieresis: Need to fix wrong orientation on subpath with original moveto at 455 345
+	msg for ydieresis: Done.
+Checking Ydieresis
+	msg for Ydieresis: Need to inspect unsmoothed transition between
+	msg for Ydieresis: 585 594 .. 401 315
+	msg for Ydieresis: and
+	msg for Ydieresis: 401 315 .. 420 63
+
+	msg for Ydieresis: Need to inspect unsmoothed transition between
+	msg for Ydieresis: 585 594 .. 401 315
+	msg for Ydieresis: and
+	msg for Ydieresis: 401 315 .. 420 63
+
+	msg for Ydieresis: Need to fix coincident control points:
+	msg for Ydieresis: 302 289 .. 105 607
+	msg for Ydieresis: Please inspect.
+	msg for Ydieresis: Need to inspect for possible loop/inflection:
+	msg for Ydieresis: 302 289 .. 105 607
+
+	msg for Ydieresis: Need to fix wrong orientation on subpath with original moveto at 279 688
+	msg for Ydieresis: Done.
+Checking fraction
+	msg for fraction: Need to inspect unsmoothed transition between
+	msg for fraction: 132 329 .. 347 691
+	msg for fraction: and
+	msg for fraction: 347 691 .. 298 724
+
+	msg for fraction: Need to inspect unsmoothed transition between
+	msg for fraction: 132 329 .. 347 691
+	msg for fraction: and
+	msg for fraction: 347 691 .. 298 724
+
+Checking Euro
+	msg for Euro: NOTE: 8 intersections found. Please inspect.
+	msg for Euro: Need to convert straight curve:
+	msg for Euro: 202 306 .. 202 326
+	msg for Euro: Done.
+	msg for Euro: Need to fix point(s) outside triangle by
+	msg for Euro: -3 units in X and 0 units in Y :
+	msg for Euro: 591 635 .. 399 675
+	msg for Euro: Done.
+	msg for Euro: Need to convert straight curve:
+	msg for Euro: 89 309 .. 89 306
+	msg for Euro: Done.
+Checking guilsinglleft
+Checking guilsinglright
+Checking fi
+	msg for fi: Need to fix wrong orientation on subpath with original moveto at 601 34
+	msg for fi: Done.
+Checking fl
+	msg for fl: NOTE: 2 intersections found. Please inspect.
+	msg for fl: Need to inspect unsmoothed transition between
+	msg for fl: 530 765 .. 423 752
+	msg for fl: and
+	msg for fl: 423 752 .. 289 765
+
+	msg for fl: Need to inspect unsmoothed transition between
+	msg for fl: 530 765 .. 423 752
+	msg for fl: and
+	msg for fl: 423 752 .. 289 765
+
+Checking daggerdbl
+	msg for daggerdbl: NOTE: 8 intersections found. Please inspect.
+	msg for daggerdbl: Need to fix point(s) outside triangle by
+	msg for daggerdbl: 2 units in X and 0 units in Y :
+	msg for daggerdbl: 265 367 .. 408 360
+	msg for daggerdbl: Done.
+	msg for daggerdbl: Need to fix coincident control points:
+	msg for daggerdbl: 172 656 .. 204 418
+	msg for daggerdbl: Please inspect.
+	msg for daggerdbl: Need to inspect for possible loop/inflection:
+	msg for daggerdbl: 172 656 .. 204 418
+
+	msg for daggerdbl: Need to fix point(s) outside triangle by
+	msg for daggerdbl: -3 units in X and 0 units in Y :
+	msg for daggerdbl: 58 360 .. 204 367
+	msg for daggerdbl: Done.
+	msg for daggerdbl: Need to fix point(s) outside triangle by
+	msg for daggerdbl: -4 units in X and 0 units in Y :
+	msg for daggerdbl: 58 92 .. 209 100
+	msg for daggerdbl: Done.
+	msg for daggerdbl: Need to fix point(s) outside triangle by
+	msg for daggerdbl: 3 units in X and 0 units in Y :
+	msg for daggerdbl: 261 99 .. 408 92
+	msg for daggerdbl: Done.
+Checking periodcentered
+Checking quotesinglbase
+Checking quotedblbase
+Checking perthousand
+	msg for perthousand: Need to inspect coincident paths: with original moveto at
+	msg for perthousand: 299 -26
+	msg for perthousand: and with moveto at
+	msg for perthousand: 299 -26
+	msg for perthousand: Removed second path; You MUST inspect this.
+	msg for perthousand: Need to inspect unsmoothed transition between
+	msg for perthousand: 498 329 .. 713 691
+	msg for perthousand: and
+	msg for perthousand: 713 691 .. 664 724
+
+	msg for perthousand: Need to inspect unsmoothed transition between
+	msg for perthousand: 498 329 .. 713 691
+	msg for perthousand: and
+	msg for perthousand: 713 691 .. 664 724
+
+Checking Acircumflex
+	msg for Acircumflex: NOTE: 5 intersections found. Please inspect.
+Checking Ecircumflex
+	msg for Ecircumflex: NOTE: 2 intersections found. Please inspect.
+Checking Aacute
+	msg for Aacute: NOTE: 5 intersections found. Please inspect.
+Checking Edieresis
+	msg for Edieresis: NOTE: 2 intersections found. Please inspect.
+Checking Egrave
+	msg for Egrave: NOTE: 2 intersections found. Please inspect.
+Checking Iacute
+Checking Icircumflex
+Checking Idieresis
+Checking Igrave
+Checking Oacute
+Checking Ocircumflex
+Checking Ograve
+Checking Uacute
+	msg for Uacute: Need to fix wrong orientation on subpath with original moveto at 299 688
+	msg for Uacute: Done.
+Checking Ucircumflex
+Checking Ugrave
+	msg for Ugrave: Need to fix wrong orientation on subpath with original moveto at 299 688
+	msg for Ugrave: Done.
+Checking dotlessi
+Checking circumflex
+Checking tilde
+Checking macron
+Checking breve
+Checking dotaccent
+Checking ring
+Checking cedilla
+	msg for cedilla: Need to inspect unsmoothed transition between
+	msg for cedilla: 95 -245 .. 120 -285
+	msg for cedilla: and
+	msg for cedilla: 120 -285 .. 268 -107
+
+	msg for cedilla: Need to inspect unsmoothed transition between
+	msg for cedilla: 95 -245 .. 120 -285
+	msg for cedilla: and
+	msg for cedilla: 120 -285 .. 268 -107
+
+Checking hungarumlaut
+Checking ogonek
+	msg for ogonek: Need to fix point(s) outside triangle by
+	msg for ogonek: -4 units in X and 0 units in Y :
+	msg for ogonek: 241 -174 .. 184 -197
+	msg for ogonek: Done.
+	msg for ogonek: Need to inspect unsmoothed transition between
+	msg for ogonek: 283 38 .. 213 38
+	msg for ogonek: and
+	msg for ogonek: 213 38 .. 50 -174
+
+Checking caron
+Checking currency
+	msg for currency: NOTE: 8 intersections found. Please inspect.
+Checking Lslash
+	msg for Lslash: NOTE: 4 intersections found. Please inspect.
+	msg for Lslash: Need to convert straight curve:
+	msg for Lslash: 223 345 .. 223 347
+	msg for Lslash: Done.
+	msg for Lslash: Need to inspect unsmoothed transition between
+	msg for Lslash: 427 441 .. 402 491
+	msg for Lslash: and
+	msg for Lslash: 402 491 .. 223 406
+
+	msg for Lslash: Need to inspect unsmoothed transition between
+	msg for Lslash: 427 441 .. 402 491
+	msg for Lslash: and
+	msg for Lslash: 402 491 .. 223 406
+
+	msg for Lslash: Need to fix point(s) outside triangle by
+	msg for Lslash: -3 units in X and 0 units in Y :
+	msg for Lslash: 58 282 .. 123 313
+	msg for Lslash: Done.
+Checking lslash
+	msg for lslash: NOTE: 6 intersections found. Please inspect.
+Checking Eth
+	msg for Eth: NOTE: 3 intersections found. Please inspect.
+Checking onehalf
+	msg for onehalf: Need to inspect unsmoothed transition between
+	msg for onehalf: 438 329 .. 653 691
+	msg for onehalf: and
+	msg for onehalf: 653 691 .. 604 724
+
+	msg for onehalf: Need to inspect unsmoothed transition between
+	msg for onehalf: 438 329 .. 653 691
+	msg for onehalf: and
+	msg for onehalf: 653 691 .. 604 724
+
+	msg for onehalf: Need to inspect unsmoothed transition between
+	msg for onehalf: 797 56 .. 791 70
+	msg for onehalf: and
+	msg for onehalf: 791 70 .. 642 53
+
+	msg for onehalf: Need to inspect unsmoothed transition between
+	msg for onehalf: 797 56 .. 791 70
+	msg for onehalf: and
+	msg for onehalf: 791 70 .. 642 53
+
+Checking Thorn
+Checking onequarter
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 438 329 .. 653 691
+	msg for onequarter: and
+	msg for onequarter: 653 691 .. 604 724
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 438 329 .. 653 691
+	msg for onequarter: and
+	msg for onequarter: 653 691 .. 604 724
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 618 -21 .. 699 -2
+	msg for onequarter: and
+	msg for onequarter: 699 -2 .. 694 102
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 618 -21 .. 699 -2
+	msg for onequarter: and
+	msg for onequarter: 699 -2 .. 694 102
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 766 153 .. 759 167
+	msg for onequarter: and
+	msg for onequarter: 759 167 .. 694 150
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 766 153 .. 759 167
+	msg for onequarter: and
+	msg for onequarter: 759 167 .. 694 150
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 694 407 .. 614 388
+	msg for onequarter: and
+	msg for onequarter: 614 388 .. 436 135
+
+	msg for onequarter: Need to inspect unsmoothed transition between
+	msg for onequarter: 694 407 .. 614 388
+	msg for onequarter: and
+	msg for onequarter: 614 388 .. 436 135
+
+Checking brokenbar
+Checking thorn
+	msg for thorn: NOTE: 3 intersections found. Please inspect.
+	msg for thorn: Need to convert straight curve:
+	msg for thorn: 189 74 .. 189 184
+	msg for thorn: Done.
+Checking threequarters
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 437 329 .. 652 691
+	msg for threequarters: and
+	msg for threequarters: 652 691 .. 603 724
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 437 329 .. 652 691
+	msg for threequarters: and
+	msg for threequarters: 652 691 .. 603 724
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 607 -21 .. 688 -2
+	msg for threequarters: and
+	msg for threequarters: 688 -2 .. 683 102
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 607 -21 .. 688 -2
+	msg for threequarters: and
+	msg for threequarters: 688 -2 .. 683 102
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 755 153 .. 748 167
+	msg for threequarters: and
+	msg for threequarters: 748 167 .. 683 150
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 755 153 .. 748 167
+	msg for threequarters: and
+	msg for threequarters: 748 167 .. 683 150
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 683 407 .. 603 388
+	msg for threequarters: and
+	msg for threequarters: 603 388 .. 425 135
+
+	msg for threequarters: Need to inspect unsmoothed transition between
+	msg for threequarters: 683 407 .. 603 388
+	msg for threequarters: and
+	msg for threequarters: 603 388 .. 425 135
+
+Checking minus
+Checking eth
+	msg for eth: NOTE: 5 intersections found. Please inspect.
+Checking multiply
+Checking Scaron
+	msg for Scaron: Need to fix coincident control points:
+	msg for Scaron: 470 673 .. 278 702
+	msg for Scaron: Please inspect.
+	msg for Scaron: Need to inspect for possible loop/inflection:
+	msg for Scaron: 470 673 .. 278 702
+
+Checking Yacute
+	msg for Yacute: Need to inspect unsmoothed transition between
+	msg for Yacute: 585 594 .. 401 315
+	msg for Yacute: and
+	msg for Yacute: 401 315 .. 420 63
+
+	msg for Yacute: Need to inspect unsmoothed transition between
+	msg for Yacute: 585 594 .. 401 315
+	msg for Yacute: and
+	msg for Yacute: 401 315 .. 420 63
+
+	msg for Yacute: Need to fix coincident control points:
+	msg for Yacute: 302 289 .. 105 607
+	msg for Yacute: Please inspect.
+	msg for Yacute: Need to inspect for possible loop/inflection:
+	msg for Yacute: 302 289 .. 105 607
+
+	msg for Yacute: Need to fix wrong orientation on subpath with original moveto at 279 688
+	msg for Yacute: Done.
+Checking Zcaron
+	msg for Zcaron: Need to fix coincident control points:
+	msg for Zcaron: 189 57 .. 592 648
+	msg for Zcaron: Please inspect.
+	msg for Zcaron: Need to inspect for possible loop/inflection:
+	msg for Zcaron: 189 57 .. 592 648
+
+	msg for Zcaron: Need to fix coincident control points:
+	msg for Zcaron: 446 624 .. 47 26
+	msg for Zcaron: Please inspect.
+	msg for Zcaron: Need to inspect for possible loop/inflection:
+	msg for Zcaron: 446 624 .. 47 26
+
+Checking scaron
+Checking yacute
+	msg for yacute: Need to fix coincident control points:
+	msg for yacute: 455 345 .. 208 -230
+	msg for yacute: Please inspect.
+	msg for yacute: Need to inspect for possible loop/inflection:
+	msg for yacute: 455 345 .. 208 -230
+
+	msg for yacute: Need to fix wrong orientation on subpath with original moveto at 455 345
+	msg for yacute: Done.
+Checking zcaron
+Checking .null
+Checking CR
+Checking a.sc
+	msg for a.sc: NOTE: 5 intersections found. Please inspect.
+	msg for a.sc: Need to convert straight curve:
+	msg for a.sc: 217 489 .. 224 470
+	msg for a.sc: Done.
+	msg for a.sc: Need to convert straight curve:
+	msg for a.sc: 252 387 .. 315 208
+	msg for a.sc: Done.
+Checking b.sc
+Checking c.sc
+Checking d.sc
+Checking e.sc
+	msg for e.sc: NOTE: 3 intersections found. Please inspect.
+	msg for e.sc: Need to fix control point outside of endpoints:
+	msg for e.sc: 467 -3 .. 496 136
+
+Checking f.sc
+	msg for f.sc: NOTE: 3 intersections found. Please inspect.
+Checking g.sc
+	msg for g.sc: Need to inspect unsmoothed transition between
+	msg for g.sc: 411 132 .. 402 68
+	msg for g.sc: and
+	msg for g.sc: 402 68 .. 304 41
+
+	msg for g.sc: Need to inspect unsmoothed transition between
+	msg for g.sc: 411 132 .. 402 68
+	msg for g.sc: and
+	msg for g.sc: 402 68 .. 304 41
+
+Checking h.sc
+	msg for h.sc: NOTE: 4 intersections found. Please inspect.
+Checking i.sc
+Checking j.sc
+Checking k.sc
+	msg for k.sc: NOTE: 3 intersections found. Please inspect.
+Checking l.sc
+	msg for l.sc: Need to fix control point outside of endpoints:
+	msg for l.sc: 457 -3 .. 486 136
+
+Checking m.sc
+	msg for m.sc: Need to fix coincident control points:
+	msg for m.sc: 411 181 .. 267 510
+	msg for m.sc: Please inspect.
+	msg for m.sc: Need to inspect for possible loop/inflection:
+	msg for m.sc: 411 181 .. 267 510
+
+	msg for m.sc: Need to fix coincident control points:
+	msg for m.sc: 195 417 .. 382 -1
+	msg for m.sc: Please inspect.
+Checking n.sc
+	msg for n.sc: Need to fix coincident control points:
+	msg for n.sc: 541 -2 .. 549 10
+	msg for n.sc: Please inspect.
+	msg for n.sc: Need to fix coincident control points:
+	msg for n.sc: 493 129 .. 252 510
+	msg for n.sc: Please inspect.
+	msg for n.sc: Need to inspect for possible loop/inflection:
+	msg for n.sc: 493 129 .. 252 510
+
+	msg for n.sc: Need to fix point(s) outside triangle by
+	msg for n.sc: -2 units in X and 0 units in Y :
+	msg for n.sc: 252 510 .. 239 520
+	msg for n.sc: Done.
+Checking o.sc
+Checking p.sc
+Checking q.sc
+	msg for q.sc: NOTE: 2 intersections found. Please inspect.
+Checking r.sc
+Checking s.sc
+Checking t.sc
+Checking u.sc
+Checking v.sc
+Checking w.sc
+	msg for w.sc: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking x.sc
+Checking y.sc
+	msg for y.sc: Need to inspect unsmoothed transition between
+	msg for y.sc: 340 56 .. 325 224
+	msg for y.sc: and
+	msg for y.sc: 325 224 .. 462 446
+
+	msg for y.sc: Need to inspect unsmoothed transition between
+	msg for y.sc: 340 56 .. 325 224
+	msg for y.sc: and
+	msg for y.sc: 325 224 .. 462 446
+
+	msg for y.sc: Need to fix coincident control points:
+	msg for y.sc: 77 456 .. 230 203
+	msg for y.sc: Please inspect.
+Checking z.sc
+Checking acute.cap
+Checking grave.cap
+Checking circumflex.cap
+Checking dieresis.cap
+Checking ring.cap
+Checking tilde.cap
+Checking caron.cap
+Checking scedilla
+	msg for scedilla: NOTE: 2 intersections found. Please inspect.
+	msg for scedilla: Need to inspect unsmoothed transition between
+	msg for scedilla: 144 -245 .. 169 -285
+	msg for scedilla: and
+	msg for scedilla: 169 -285 .. 317 -107
+
+	msg for scedilla: Need to inspect unsmoothed transition between
+	msg for scedilla: 144 -245 .. 169 -285
+	msg for scedilla: and
+	msg for scedilla: 169 -285 .. 317 -107
+
+Checking zero.oldstyle
+Checking one.oldstyle
+	msg for one.oldstyle: Need to inspect unsmoothed transition between
+	msg for one.oldstyle: 152 -9 .. 249 20
+	msg for one.oldstyle: and
+	msg for one.oldstyle: 249 20 .. 242 235
+
+	msg for one.oldstyle: Need to inspect unsmoothed transition between
+	msg for one.oldstyle: 152 -9 .. 249 20
+	msg for one.oldstyle: and
+	msg for one.oldstyle: 249 20 .. 242 235
+
+Checking two.oldstyle
+	msg for two.oldstyle: Need to fix coincident control points:
+	msg for two.oldstyle: 66 -2 .. 216 2
+	msg for two.oldstyle: Please inspect.
+	msg for two.oldstyle: Need to inspect for possible loop/inflection:
+	msg for two.oldstyle: 66 -2 .. 216 2
+
+	msg for two.oldstyle: Need to inspect unsmoothed transition between
+	msg for two.oldstyle: 450 87 .. 440 108
+	msg for two.oldstyle: and
+	msg for two.oldstyle: 440 108 .. 226 83
+
+	msg for two.oldstyle: Need to inspect unsmoothed transition between
+	msg for two.oldstyle: 450 87 .. 440 108
+	msg for two.oldstyle: and
+	msg for two.oldstyle: 440 108 .. 226 83
+
+Checking three.oldstyle
+	msg for three.oldstyle: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking four.oldstyle
+	msg for four.oldstyle: Need to inspect unsmoothed transition between
+	msg for four.oldstyle: 317 -230 .. 419 -201
+	msg for four.oldstyle: and
+	msg for four.oldstyle: 419 -201 .. 412 26
+
+	msg for four.oldstyle: Need to inspect unsmoothed transition between
+	msg for four.oldstyle: 317 -230 .. 419 -201
+	msg for four.oldstyle: and
+	msg for four.oldstyle: 419 -201 .. 412 26
+
+	msg for four.oldstyle: Need to inspect unsmoothed transition between
+	msg for four.oldstyle: 528 96 .. 518 117
+	msg for four.oldstyle: and
+	msg for four.oldstyle: 518 117 .. 411 93
+
+	msg for four.oldstyle: Need to inspect unsmoothed transition between
+	msg for four.oldstyle: 528 96 .. 518 117
+	msg for four.oldstyle: and
+	msg for four.oldstyle: 518 117 .. 411 93
+
+	msg for four.oldstyle: Need to inspect unsmoothed transition between
+	msg for four.oldstyle: 414 485 .. 316 459
+	msg for four.oldstyle: and
+	msg for four.oldstyle: 316 459 .. 36 70
+
+	msg for four.oldstyle: Need to inspect unsmoothed transition between
+	msg for four.oldstyle: 414 485 .. 316 459
+	msg for four.oldstyle: and
+	msg for four.oldstyle: 316 459 .. 36 70
+
+Checking five.oldstyle
+	msg for five.oldstyle: Need to fix coincident control points:
+	msg for five.oldstyle: 56 179 .. 76 149
+	msg for five.oldstyle: Please inspect.
+Checking six.oldstyle
+	msg for six.oldstyle: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.oldstyle
+Checking eight.oldstyle
+	msg for eight.oldstyle: NOTE: 2 intersections found. Please inspect.
+	msg for eight.oldstyle: Need to fix point(s) outside triangle by
+	msg for eight.oldstyle: 0 units in X and 3 units in Y :
+	msg for eight.oldstyle: 305 388 .. 159 516
+	msg for eight.oldstyle: Done.
+Checking nine.oldstyle
+	msg for nine.oldstyle: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking f_f
+Checking f_f_i
+	msg for f_f_i: Need to fix wrong orientation on subpath with original moveto at 927 34
+	msg for f_f_i: Done.
+Checking zero.superior
+Checking one.superior
+Checking two.superior
+	msg for two.superior: Need to inspect unsmoothed transition between
+	msg for two.superior: 332 478 .. 326 492
+	msg for two.superior: and
+	msg for two.superior: 326 492 .. 177 475
+
+	msg for two.superior: Need to inspect unsmoothed transition between
+	msg for two.superior: 332 478 .. 326 492
+	msg for two.superior: and
+	msg for two.superior: 326 492 .. 177 475
+
+Checking three.superior
+Checking four.superior
+	msg for four.superior: Need to inspect unsmoothed transition between
+	msg for four.superior: 213 401 .. 294 420
+	msg for four.superior: and
+	msg for four.superior: 294 420 .. 289 524
+
+	msg for four.superior: Need to inspect unsmoothed transition between
+	msg for four.superior: 213 401 .. 294 420
+	msg for four.superior: and
+	msg for four.superior: 294 420 .. 289 524
+
+	msg for four.superior: Need to inspect unsmoothed transition between
+	msg for four.superior: 361 575 .. 354 589
+	msg for four.superior: and
+	msg for four.superior: 354 589 .. 289 572
+
+	msg for four.superior: Need to inspect unsmoothed transition between
+	msg for four.superior: 361 575 .. 354 589
+	msg for four.superior: and
+	msg for four.superior: 354 589 .. 289 572
+
+	msg for four.superior: Need to inspect unsmoothed transition between
+	msg for four.superior: 289 829 .. 209 810
+	msg for four.superior: and
+	msg for four.superior: 209 810 .. 31 557
+
+	msg for four.superior: Need to inspect unsmoothed transition between
+	msg for four.superior: 289 829 .. 209 810
+	msg for four.superior: and
+	msg for four.superior: 209 810 .. 31 557
+
+Checking five.superior
+	msg for five.superior: Need to fix coincident control points:
+	msg for five.superior: 49 621 .. 62 601
+	msg for five.superior: Please inspect.
+Checking six.superior
+	msg for six.superior: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.superior
+Checking eight.superior
+Checking nine.superior
+Checking Cdotaccent
+	msg for Cdotaccent: Need to fix wrong orientation on subpath with original moveto at 515 612
+	msg for Cdotaccent: Done.
+Checking cdotaccent
+Checking Gdotaccent
+	msg for Gdotaccent: Need to fix wrong orientation on subpath with original moveto at 535 612
+	msg for Gdotaccent: Done.
+Checking gdotaccent
+	msg for gdotaccent: NOTE: 5 intersections found. Please inspect.
+Checking Hbar
+	msg for Hbar: NOTE: 11 intersections found. Please inspect.
+Checking hbar
+	msg for hbar: NOTE: 4 intersections found. Please inspect.
+	msg for hbar: Need to fix point(s) outside triangle by
+	msg for hbar: 2 units in X and 0 units in Y :
+	msg for hbar: 338 -5 .. 436 0
+	msg for hbar: Done.
+Checking Zdotaccent
+	msg for Zdotaccent: Need to fix coincident control points:
+	msg for Zdotaccent: 43 26 .. 442 624
+	msg for Zdotaccent: Please inspect.
+	msg for Zdotaccent: Need to fix coincident control points:
+	msg for Zdotaccent: 588 648 .. 185 57
+	msg for Zdotaccent: Please inspect.
+	msg for Zdotaccent: Need to fix wrong orientation on subpath with original moveto at 523 181
+	msg for Zdotaccent: Done.
+Checking zdotaccent
+	msg for zdotaccent: Need to fix wrong orientation on subpath with original moveto at 36 0
+	msg for zdotaccent: Done.
+Checking zero.inferior
+Checking one.inferior
+Checking two.inferior
+	msg for two.inferior: Need to inspect unsmoothed transition between
+	msg for two.inferior: 332 -52 .. 326 -38
+	msg for two.inferior: and
+	msg for two.inferior: 326 -38 .. 177 -55
+
+	msg for two.inferior: Need to inspect unsmoothed transition between
+	msg for two.inferior: 332 -52 .. 326 -38
+	msg for two.inferior: and
+	msg for two.inferior: 326 -38 .. 177 -55
+
+Checking three.inferior
+Checking four.inferior
+	msg for four.inferior: Need to inspect unsmoothed transition between
+	msg for four.inferior: 213 -129 .. 294 -110
+	msg for four.inferior: and
+	msg for four.inferior: 294 -110 .. 289 -6
+
+	msg for four.inferior: Need to inspect unsmoothed transition between
+	msg for four.inferior: 213 -129 .. 294 -110
+	msg for four.inferior: and
+	msg for four.inferior: 294 -110 .. 289 -6
+
+	msg for four.inferior: Need to inspect unsmoothed transition between
+	msg for four.inferior: 361 45 .. 354 59
+	msg for four.inferior: and
+	msg for four.inferior: 354 59 .. 289 42
+
+	msg for four.inferior: Need to inspect unsmoothed transition between
+	msg for four.inferior: 361 45 .. 354 59
+	msg for four.inferior: and
+	msg for four.inferior: 354 59 .. 289 42
+
+	msg for four.inferior: Need to inspect unsmoothed transition between
+	msg for four.inferior: 289 299 .. 209 280
+	msg for four.inferior: and
+	msg for four.inferior: 209 280 .. 31 27
+
+	msg for four.inferior: Need to inspect unsmoothed transition between
+	msg for four.inferior: 289 299 .. 209 280
+	msg for four.inferior: and
+	msg for four.inferior: 209 280 .. 31 27
+
+Checking five.inferior
+	msg for five.inferior: Need to fix coincident control points:
+	msg for five.inferior: 49 91 .. 62 71
+	msg for five.inferior: Please inspect.
+Checking six.inferior
+	msg for six.inferior: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.inferior
+Checking eight.inferior
+Checking nine.inferior
+Checking zero.numerator
+Checking one.numerator
+Checking two.numerator
+	msg for two.numerator: Need to inspect unsmoothed transition between
+	msg for two.numerator: 332 337 .. 326 351
+	msg for two.numerator: and
+	msg for two.numerator: 326 351 .. 177 334
+
+	msg for two.numerator: Need to inspect unsmoothed transition between
+	msg for two.numerator: 332 337 .. 326 351
+	msg for two.numerator: and
+	msg for two.numerator: 326 351 .. 177 334
+
+Checking three.numerator
+Checking four.numerator
+	msg for four.numerator: Need to inspect unsmoothed transition between
+	msg for four.numerator: 213 260 .. 294 279
+	msg for four.numerator: and
+	msg for four.numerator: 294 279 .. 289 383
+
+	msg for four.numerator: Need to inspect unsmoothed transition between
+	msg for four.numerator: 213 260 .. 294 279
+	msg for four.numerator: and
+	msg for four.numerator: 294 279 .. 289 383
+
+	msg for four.numerator: Need to inspect unsmoothed transition between
+	msg for four.numerator: 361 434 .. 354 448
+	msg for four.numerator: and
+	msg for four.numerator: 354 448 .. 289 431
+
+	msg for four.numerator: Need to inspect unsmoothed transition between
+	msg for four.numerator: 361 434 .. 354 448
+	msg for four.numerator: and
+	msg for four.numerator: 354 448 .. 289 431
+
+	msg for four.numerator: Need to inspect unsmoothed transition between
+	msg for four.numerator: 289 688 .. 209 669
+	msg for four.numerator: and
+	msg for four.numerator: 209 669 .. 31 416
+
+	msg for four.numerator: Need to inspect unsmoothed transition between
+	msg for four.numerator: 289 688 .. 209 669
+	msg for four.numerator: and
+	msg for four.numerator: 209 669 .. 31 416
+
+Checking five.numerator
+	msg for five.numerator: Need to fix coincident control points:
+	msg for five.numerator: 49 480 .. 62 460
+	msg for five.numerator: Please inspect.
+Checking six.numerator
+	msg for six.numerator: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.numerator
+Checking eight.numerator
+Checking nine.numerator
+Checking zero.denominator
+Checking one.denominator
+Checking two.denominator
+	msg for two.denominator: Need to inspect unsmoothed transition between
+	msg for two.denominator: 332 56 .. 326 70
+	msg for two.denominator: and
+	msg for two.denominator: 326 70 .. 177 53
+
+	msg for two.denominator: Need to inspect unsmoothed transition between
+	msg for two.denominator: 332 56 .. 326 70
+	msg for two.denominator: and
+	msg for two.denominator: 326 70 .. 177 53
+
+Checking three.denominator
+Checking four.denominator
+	msg for four.denominator: Need to inspect unsmoothed transition between
+	msg for four.denominator: 213 -21 .. 294 -2
+	msg for four.denominator: and
+	msg for four.denominator: 294 -2 .. 289 102
+
+	msg for four.denominator: Need to inspect unsmoothed transition between
+	msg for four.denominator: 213 -21 .. 294 -2
+	msg for four.denominator: and
+	msg for four.denominator: 294 -2 .. 289 102
+
+	msg for four.denominator: Need to inspect unsmoothed transition between
+	msg for four.denominator: 361 153 .. 354 167
+	msg for four.denominator: and
+	msg for four.denominator: 354 167 .. 289 150
+
+	msg for four.denominator: Need to inspect unsmoothed transition between
+	msg for four.denominator: 361 153 .. 354 167
+	msg for four.denominator: and
+	msg for four.denominator: 354 167 .. 289 150
+
+	msg for four.denominator: Need to inspect unsmoothed transition between
+	msg for four.denominator: 289 407 .. 209 388
+	msg for four.denominator: and
+	msg for four.denominator: 209 388 .. 31 135
+
+	msg for four.denominator: Need to inspect unsmoothed transition between
+	msg for four.denominator: 289 407 .. 209 388
+	msg for four.denominator: and
+	msg for four.denominator: 209 388 .. 31 135
+
+Checking five.denominator
+	msg for five.denominator: Need to fix coincident control points:
+	msg for five.denominator: 49 199 .. 62 179
+	msg for five.denominator: Please inspect.
+Checking six.denominator
+	msg for six.denominator: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.denominator
+Checking eight.denominator
+Checking nine.denominator
+Checking f_b
+	msg for f_b: NOTE: 2 intersections found. Please inspect.
+	msg for f_b: Need to inspect unsmoothed transition between
+	msg for f_b: 500 765 .. 407 755
+	msg for f_b: and
+	msg for f_b: 407 755 .. 289 765
+
+	msg for f_b: Need to inspect unsmoothed transition between
+	msg for f_b: 500 765 .. 407 755
+	msg for f_b: and
+	msg for f_b: 407 755 .. 289 765
+
+Checking f_f_b
+	msg for f_f_b: NOTE: 2 intersections found. Please inspect.
+	msg for f_f_b: Need to inspect unsmoothed transition between
+	msg for f_f_b: 826 765 .. 733 755
+	msg for f_f_b: and
+	msg for f_f_b: 733 755 .. 615 765
+
+	msg for f_f_b: Need to inspect unsmoothed transition between
+	msg for f_f_b: 826 765 .. 733 755
+	msg for f_f_b: and
+	msg for f_f_b: 733 755 .. 615 765
+
+Checking f_h
+	msg for f_h: NOTE: 2 intersections found. Please inspect.
+	msg for f_h: Need to inspect unsmoothed transition between
+	msg for f_h: 530 765 .. 423 752
+	msg for f_h: and
+	msg for f_h: 423 752 .. 289 765
+
+	msg for f_h: Need to inspect unsmoothed transition between
+	msg for f_h: 530 765 .. 423 752
+	msg for f_h: and
+	msg for f_h: 423 752 .. 289 765
+
+	msg for f_h: Need to fix point(s) outside triangle by
+	msg for f_h: 2 units in X and 0 units in Y :
+	msg for f_h: 664 -5 .. 762 0
+	msg for f_h: Done.
+Checking f_f_h
+	msg for f_f_h: NOTE: 2 intersections found. Please inspect.
+	msg for f_f_h: Need to inspect unsmoothed transition between
+	msg for f_f_h: 856 765 .. 749 752
+	msg for f_f_h: and
+	msg for f_f_h: 749 752 .. 615 765
+
+	msg for f_f_h: Need to inspect unsmoothed transition between
+	msg for f_f_h: 856 765 .. 749 752
+	msg for f_f_h: and
+	msg for f_f_h: 749 752 .. 615 765
+
+	msg for f_f_h: Need to fix point(s) outside triangle by
+	msg for f_f_h: 2 units in X and 0 units in Y :
+	msg for f_f_h: 990 -5 .. 1088 0
+	msg for f_f_h: Done.
+Checking f_j
+	msg for f_j: Need to inspect unsmoothed transition between
+	msg for f_j: 533 40 .. 358 -235
+	msg for f_j: and
+	msg for f_j: 358 -235 .. 337 -190
+
+	msg for f_j: Need to inspect unsmoothed transition between
+	msg for f_j: 533 40 .. 358 -235
+	msg for f_j: and
+	msg for f_j: 358 -235 .. 337 -190
+
+	msg for f_j: Need to fix wrong orientation on subpath with original moveto at 537 478
+	msg for f_j: Done.
+Checking f_f_j
+	msg for f_f_j: Need to inspect unsmoothed transition between
+	msg for f_f_j: 859 40 .. 684 -235
+	msg for f_f_j: and
+	msg for f_f_j: 684 -235 .. 663 -190
+
+	msg for f_f_j: Need to inspect unsmoothed transition between
+	msg for f_f_j: 859 40 .. 684 -235
+	msg for f_f_j: and
+	msg for f_f_j: 684 -235 .. 663 -190
+
+	msg for f_f_j: Need to fix wrong orientation on subpath with original moveto at 863 478
+	msg for f_f_j: Done.
+Checking f_k
+	msg for f_k: NOTE: 6 intersections found. Please inspect.
+	msg for f_k: Need to inspect unsmoothed transition between
+	msg for f_k: 530 765 .. 423 752
+	msg for f_k: and
+	msg for f_k: 423 752 .. 289 765
+
+	msg for f_k: Need to inspect unsmoothed transition between
+	msg for f_k: 530 765 .. 423 752
+	msg for f_k: and
+	msg for f_k: 423 752 .. 289 765
+
+Checking f_f_k
+	msg for f_f_k: NOTE: 6 intersections found. Please inspect.
+	msg for f_f_k: Need to inspect unsmoothed transition between
+	msg for f_f_k: 856 765 .. 749 752
+	msg for f_f_k: and
+	msg for f_f_k: 749 752 .. 615 765
+
+	msg for f_f_k: Need to inspect unsmoothed transition between
+	msg for f_f_k: 856 765 .. 749 752
+	msg for f_f_k: and
+	msg for f_f_k: 749 752 .. 615 765
+
+Checking f_f_l
+	msg for f_f_l: NOTE: 2 intersections found. Please inspect.
+	msg for f_f_l: Need to inspect unsmoothed transition between
+	msg for f_f_l: 856 765 .. 749 752
+	msg for f_f_l: and
+	msg for f_f_l: 749 752 .. 615 765
+
+	msg for f_f_l: Need to inspect unsmoothed transition between
+	msg for f_f_l: 856 765 .. 749 752
+	msg for f_f_l: and
+	msg for f_f_l: 749 752 .. 615 765
+
+Checking racute
+	msg for racute: Need to inspect unsmoothed transition between
+	msg for racute: 203 194 .. 209 345
+	msg for racute: and
+	msg for racute: 209 345 .. 274 393
+
+	msg for racute: Need to inspect unsmoothed transition between
+	msg for racute: 203 194 .. 209 345
+	msg for racute: and
+	msg for racute: 209 345 .. 274 393
+
+Checking Racute
+	msg for Racute: Need to fix wrong orientation on subpath with original moveto at 163 684
+	msg for Racute: Done.
+	msg for Racute: Need to fix wrong orientation on subpath with original moveto at 219 388
+	msg for Racute: Done.
+Checking dotaccent.cap
+Checking aogonek
+	msg for aogonek: Need to fix point(s) outside triangle by
+	msg for aogonek: -4 units in X and 0 units in Y :
+	msg for aogonek: 420 -174 .. 363 -197
+	msg for aogonek: Done.
+	msg for aogonek: Need to inspect unsmoothed transition between
+	msg for aogonek: 302 191 .. 294 115
+	msg for aogonek: and
+	msg for aogonek: 294 115 .. 199 67
+
+	msg for aogonek: Need to inspect unsmoothed transition between
+	msg for aogonek: 302 191 .. 294 115
+	msg for aogonek: and
+	msg for aogonek: 294 115 .. 199 67
+
+Checking Aogonek
+	msg for Aogonek: NOTE: 7 intersections found. Please inspect.
+	msg for Aogonek: Need to fix point(s) outside triangle by
+	msg for Aogonek: -4 units in X and 0 units in Y :
+	msg for Aogonek: 626 -174 .. 569 -197
+	msg for Aogonek: Done.
+Checking eogonek
+	msg for eogonek: Need to fix point(s) outside triangle by
+	msg for eogonek: -4 units in X and 0 units in Y :
+	msg for eogonek: 343 -174 .. 286 -197
+	msg for eogonek: Done.
+Checking Eogonek
+	msg for Eogonek: NOTE: 4 intersections found. Please inspect.
+	msg for Eogonek: Need to inspect for possible loop/inflection:
+	msg for Eogonek: 388 0 .. 389 0
+
+	msg for Eogonek: Need to convert straight curve:
+	msg for Eogonek: 388 0 .. 389 0
+	msg for Eogonek: Done.
+	msg for Eogonek: Need to fix point(s) outside triangle by
+	msg for Eogonek: -4 units in X and 0 units in Y :
+	msg for Eogonek: 473 -174 .. 416 -197
+	msg for Eogonek: Done.
+Checking sacute
+Checking Sacute
+	msg for Sacute: Need to fix coincident control points:
+	msg for Sacute: 278 702 .. 470 673
+	msg for Sacute: Please inspect.
+	msg for Sacute: Need to fix wrong orientation on subpath with original moveto at 364 618
+	msg for Sacute: Done.
+Checking cacute
+Checking Cacute
+	msg for Cacute: Need to fix wrong orientation on subpath with original moveto at 515 612
+	msg for Cacute: Done.
+Checking nacute
+	msg for nacute: Need to fix point(s) outside triangle by
+	msg for nacute: 2 units in X and 0 units in Y :
+	msg for nacute: 354 -5 .. 452 0
+	msg for nacute: Done.
+Checking Nacute
+	msg for Nacute: Need to fix coincident control points:
+	msg for Nacute: 664 24 .. 653 -2
+	msg for Nacute: Please inspect.
+	msg for Nacute: Need to inspect for possible loop/inflection:
+	msg for Nacute: 664 24 .. 653 -2
+
+	msg for Nacute: Need to fix point(s) outside triangle by
+	msg for Nacute: -2 units in X and 0 units in Y :
+	msg for Nacute: 244 690 .. 262 676
+	msg for Nacute: Done.
+	msg for Nacute: Need to fix coincident control points:
+	msg for Nacute: 262 676 .. 605 151
+	msg for Nacute: Please inspect.
+	msg for Nacute: Need to fix wrong orientation on subpath with original moveto at 588 614
+	msg for Nacute: Done.
+Checking afii61289
+	msg for afii61289: Need to inspect unsmoothed transition between
+	msg for afii61289: 21 275 .. 41 233
+	msg for afii61289: and
+	msg for afii61289: 41 233 .. 105 264
+
+Checking zero.fitted
+Checking one.fitted
+Checking two.fitted
+	msg for two.fitted: Need to inspect unsmoothed transition between
+	msg for two.fitted: 505 89 .. 494 113
+	msg for two.fitted: and
+	msg for two.fitted: 494 113 .. 268 85
+
+	msg for two.fitted: Need to inspect unsmoothed transition between
+	msg for two.fitted: 505 89 .. 494 113
+	msg for two.fitted: and
+	msg for two.fitted: 494 113 .. 268 85
+
+Checking three.fitted
+	msg for three.fitted: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking four.fitted
+	msg for four.fitted: Need to inspect unsmoothed transition between
+	msg for four.fitted: 344 -32 .. 451 0
+	msg for four.fitted: and
+	msg for four.fitted: 451 0 .. 443 182
+
+	msg for four.fitted: Need to inspect unsmoothed transition between
+	msg for four.fitted: 344 -32 .. 451 0
+	msg for four.fitted: and
+	msg for four.fitted: 451 0 .. 443 182
+
+	msg for four.fitted: Need to inspect unsmoothed transition between
+	msg for four.fitted: 562 258 .. 551 281
+	msg for four.fitted: and
+	msg for four.fitted: 551 281 .. 442 254
+
+	msg for four.fitted: Need to inspect unsmoothed transition between
+	msg for four.fitted: 562 258 .. 551 281
+	msg for four.fitted: and
+	msg for four.fitted: 551 281 .. 442 254
+
+	msg for four.fitted: Need to inspect unsmoothed transition between
+	msg for four.fitted: 446 678 .. 329 647
+	msg for four.fitted: and
+	msg for four.fitted: 329 647 .. 44 229
+
+	msg for four.fitted: Need to inspect unsmoothed transition between
+	msg for four.fitted: 446 678 .. 329 647
+	msg for four.fitted: and
+	msg for four.fitted: 329 647 .. 44 229
+
+Checking five.fitted
+	msg for five.fitted: Need to fix point(s) outside triangle by
+	msg for five.fitted: 1 units in X and 0 units in Y :
+	msg for five.fitted: 239 644 .. 116 651
+	msg for five.fitted: Done.
+	msg for five.fitted: Need to fix coincident control points:
+	msg for five.fitted: 79 350 .. 101 317
+	msg for five.fitted: Please inspect.
+Checking six.fitted
+	msg for six.fitted: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.fitted
+Checking eight.fitted
+	msg for eight.fitted: NOTE: 2 intersections found. Please inspect.
+	msg for eight.fitted: Need to fix point(s) outside triangle by
+	msg for eight.fitted: 0 units in X and 1 units in Y :
+	msg for eight.fitted: 324 398 .. 175 526
+	msg for eight.fitted: Done.
+	msg for eight.fitted: Need to fix point(s) outside triangle by
+	msg for eight.fitted: 0 units in X and -1 units in Y :
+	msg for eight.fitted: 259 320 .. 422 162
+	msg for eight.fitted: Done.
+Checking nine.fitted
+	msg for nine.fitted: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking zero.taboldstyle
+Checking one.taboldstyle
+Checking two.taboldstyle
+	msg for two.taboldstyle: Need to fix coincident control points:
+	msg for two.taboldstyle: 93 -2 .. 243 2
+	msg for two.taboldstyle: Please inspect.
+	msg for two.taboldstyle: Need to inspect for possible loop/inflection:
+	msg for two.taboldstyle: 93 -2 .. 243 2
+
+	msg for two.taboldstyle: Need to inspect unsmoothed transition between
+	msg for two.taboldstyle: 477 87 .. 467 108
+	msg for two.taboldstyle: and
+	msg for two.taboldstyle: 467 108 .. 253 83
+
+	msg for two.taboldstyle: Need to inspect unsmoothed transition between
+	msg for two.taboldstyle: 477 87 .. 467 108
+	msg for two.taboldstyle: and
+	msg for two.taboldstyle: 467 108 .. 253 83
+
+Checking three.taboldstyle
+	msg for three.taboldstyle: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking four.taboldstyle
+	msg for four.taboldstyle: Need to inspect unsmoothed transition between
+	msg for four.taboldstyle: 312 -230 .. 414 -201
+	msg for four.taboldstyle: and
+	msg for four.taboldstyle: 414 -201 .. 407 26
+
+	msg for four.taboldstyle: Need to inspect unsmoothed transition between
+	msg for four.taboldstyle: 312 -230 .. 414 -201
+	msg for four.taboldstyle: and
+	msg for four.taboldstyle: 414 -201 .. 407 26
+
+	msg for four.taboldstyle: Need to inspect unsmoothed transition between
+	msg for four.taboldstyle: 523 96 .. 513 117
+	msg for four.taboldstyle: and
+	msg for four.taboldstyle: 513 117 .. 406 93
+
+	msg for four.taboldstyle: Need to inspect unsmoothed transition between
+	msg for four.taboldstyle: 523 96 .. 513 117
+	msg for four.taboldstyle: and
+	msg for four.taboldstyle: 513 117 .. 406 93
+
+	msg for four.taboldstyle: Need to inspect unsmoothed transition between
+	msg for four.taboldstyle: 409 485 .. 311 459
+	msg for four.taboldstyle: and
+	msg for four.taboldstyle: 311 459 .. 31 70
+
+	msg for four.taboldstyle: Need to inspect unsmoothed transition between
+	msg for four.taboldstyle: 409 485 .. 311 459
+	msg for four.taboldstyle: and
+	msg for four.taboldstyle: 311 459 .. 31 70
+
+Checking five.taboldstyle
+	msg for five.taboldstyle: Need to fix coincident control points:
+	msg for five.taboldstyle: 106 179 .. 126 149
+	msg for five.taboldstyle: Please inspect.
+Checking six.taboldstyle
+	msg for six.taboldstyle: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking seven.taboldstyle
+Checking eight.taboldstyle
+	msg for eight.taboldstyle: NOTE: 2 intersections found. Please inspect.
+	msg for eight.taboldstyle: Need to fix point(s) outside triangle by
+	msg for eight.taboldstyle: 0 units in X and 3 units in Y :
+	msg for eight.taboldstyle: 315 388 .. 169 516
+	msg for eight.taboldstyle: Done.
+Checking nine.taboldstyle
+	msg for nine.taboldstyle: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking agrave.sc
+	msg for agrave.sc: NOTE: 5 intersections found. Please inspect.
+	msg for agrave.sc: Need to convert straight curve:
+	msg for agrave.sc: 217 489 .. 224 470
+	msg for agrave.sc: Done.
+	msg for agrave.sc: Need to convert straight curve:
+	msg for agrave.sc: 252 387 .. 315 208
+	msg for agrave.sc: Done.
+Checking aacute.sc
+	msg for aacute.sc: NOTE: 5 intersections found. Please inspect.
+	msg for aacute.sc: Need to convert straight curve:
+	msg for aacute.sc: 217 489 .. 224 470
+	msg for aacute.sc: Done.
+	msg for aacute.sc: Need to convert straight curve:
+	msg for aacute.sc: 252 387 .. 315 208
+	msg for aacute.sc: Done.
+Checking acircumflex.sc
+	msg for acircumflex.sc: NOTE: 5 intersections found. Please inspect.
+	msg for acircumflex.sc: Need to convert straight curve:
+	msg for acircumflex.sc: 217 489 .. 224 470
+	msg for acircumflex.sc: Done.
+	msg for acircumflex.sc: Need to convert straight curve:
+	msg for acircumflex.sc: 252 387 .. 315 208
+	msg for acircumflex.sc: Done.
+Checking atilde.sc
+	msg for atilde.sc: NOTE: 5 intersections found. Please inspect.
+	msg for atilde.sc: Need to convert straight curve:
+	msg for atilde.sc: 217 489 .. 224 470
+	msg for atilde.sc: Done.
+	msg for atilde.sc: Need to convert straight curve:
+	msg for atilde.sc: 252 387 .. 315 208
+	msg for atilde.sc: Done.
+Checking adieresis.sc
+	msg for adieresis.sc: NOTE: 5 intersections found. Please inspect.
+	msg for adieresis.sc: Need to convert straight curve:
+	msg for adieresis.sc: 217 489 .. 224 470
+	msg for adieresis.sc: Done.
+	msg for adieresis.sc: Need to convert straight curve:
+	msg for adieresis.sc: 252 387 .. 315 208
+	msg for adieresis.sc: Done.
+Checking aring.sc
+	msg for aring.sc: NOTE: 5 intersections found. Please inspect.
+	msg for aring.sc: Need to convert straight curve:
+	msg for aring.sc: 217 489 .. 224 470
+	msg for aring.sc: Done.
+	msg for aring.sc: Need to convert straight curve:
+	msg for aring.sc: 252 387 .. 315 208
+	msg for aring.sc: Done.
+Checking ae.sc
+	msg for ae.sc: NOTE: 7 intersections found. Please inspect.
+	msg for ae.sc: Need to fix control point outside of endpoints:
+	msg for ae.sc: 711 -3 .. 740 136
+
+Checking ccedilla.sc
+	msg for ccedilla.sc: NOTE: 2 intersections found. Please inspect.
+	msg for ccedilla.sc: Need to inspect unsmoothed transition between
+	msg for ccedilla.sc: 242 -245 .. 267 -285
+	msg for ccedilla.sc: and
+	msg for ccedilla.sc: 267 -285 .. 415 -107
+
+	msg for ccedilla.sc: Need to inspect unsmoothed transition between
+	msg for ccedilla.sc: 242 -245 .. 267 -285
+	msg for ccedilla.sc: and
+	msg for ccedilla.sc: 267 -285 .. 415 -107
+
+Checking egrave.sc
+	msg for egrave.sc: NOTE: 3 intersections found. Please inspect.
+	msg for egrave.sc: Need to fix control point outside of endpoints:
+	msg for egrave.sc: 467 -3 .. 496 136
+
+Checking eacute.sc
+	msg for eacute.sc: NOTE: 3 intersections found. Please inspect.
+	msg for eacute.sc: Need to fix control point outside of endpoints:
+	msg for eacute.sc: 467 -3 .. 496 136
+
+Checking ecircumflex.sc
+	msg for ecircumflex.sc: NOTE: 3 intersections found. Please inspect.
+	msg for ecircumflex.sc: Need to fix control point outside of endpoints:
+	msg for ecircumflex.sc: 467 -3 .. 496 136
+
+Checking edieresis.sc
+	msg for edieresis.sc: NOTE: 3 intersections found. Please inspect.
+	msg for edieresis.sc: Need to fix control point outside of endpoints:
+	msg for edieresis.sc: 467 -3 .. 496 136
+
+Checking igrave.sc
+	msg for igrave.sc: Need to fix wrong orientation on subpath with original moveto at 51 519
+	msg for igrave.sc: Done.
+Checking iacute.sc
+	msg for iacute.sc: Need to fix wrong orientation on subpath with original moveto at 51 519
+	msg for iacute.sc: Done.
+Checking icircumflex.sc
+Checking idieresis.sc
+	msg for idieresis.sc: Need to fix wrong orientation on subpath with original moveto at 51 519
+	msg for idieresis.sc: Done.
+Checking eth.sc
+	msg for eth.sc: NOTE: 3 intersections found. Please inspect.
+	msg for eth.sc: Need to fix point(s) outside triangle by
+	msg for eth.sc: -5 units in X and 0 units in Y :
+	msg for eth.sc: 114 292 .. 54 294
+	msg for eth.sc: Done.
+Checking ntilde.sc
+	msg for ntilde.sc: Need to fix point(s) outside triangle by
+	msg for ntilde.sc: -2 units in X and 0 units in Y :
+	msg for ntilde.sc: 239 520 .. 252 510
+	msg for ntilde.sc: Done.
+	msg for ntilde.sc: Need to fix coincident control points:
+	msg for ntilde.sc: 252 510 .. 493 129
+	msg for ntilde.sc: Please inspect.
+	msg for ntilde.sc: Need to fix coincident control points:
+	msg for ntilde.sc: 549 10 .. 541 -2
+	msg for ntilde.sc: Please inspect.
+	msg for ntilde.sc: Need to inspect for possible loop/inflection:
+	msg for ntilde.sc: 549 10 .. 541 -2
+
+	msg for ntilde.sc: Need to fix wrong orientation on subpath with original moveto at 244 37
+	msg for ntilde.sc: Done.
+Checking ograve.sc
+Checking oacute.sc
+Checking ocircumflex.sc
+Checking otilde.sc
+Checking odieresis.sc
+Checking oslash.sc
+	msg for oslash.sc: NOTE: 6 intersections found. Please inspect.
+	msg for oslash.sc: Need to convert straight curve:
+	msg for oslash.sc: 107 68 .. 63 10
+	msg for oslash.sc: Done.
+	msg for oslash.sc: Need to convert straight curve:
+	msg for oslash.sc: 115 -27 .. 154 27
+	msg for oslash.sc: Done.
+Checking ugrave.sc
+	msg for ugrave.sc: Need to fix wrong orientation on subpath with original moveto at 520 456
+	msg for ugrave.sc: Done.
+Checking uacute.sc
+	msg for uacute.sc: Need to fix wrong orientation on subpath with original moveto at 520 456
+	msg for uacute.sc: Done.
+Checking ucircumflex.sc
+Checking udieresis.sc
+	msg for udieresis.sc: Need to fix wrong orientation on subpath with original moveto at 520 456
+	msg for udieresis.sc: Done.
+Checking yacute.sc
+	msg for yacute.sc: Need to fix coincident control points:
+	msg for yacute.sc: 230 203 .. 77 456
+	msg for yacute.sc: Please inspect.
+	msg for yacute.sc: Need to inspect for possible loop/inflection:
+	msg for yacute.sc: 230 203 .. 77 456
+
+	msg for yacute.sc: Need to inspect unsmoothed transition between
+	msg for yacute.sc: 462 446 .. 325 224
+	msg for yacute.sc: and
+	msg for yacute.sc: 325 224 .. 340 56
+
+	msg for yacute.sc: Need to inspect unsmoothed transition between
+	msg for yacute.sc: 462 446 .. 325 224
+	msg for yacute.sc: and
+	msg for yacute.sc: 325 224 .. 340 56
+
+	msg for yacute.sc: Need to fix wrong orientation on subpath with original moveto at 414 37
+	msg for yacute.sc: Done.
+Checking thorn.sc
+Checking ydieresis.sc
+	msg for ydieresis.sc: Need to fix coincident control points:
+	msg for ydieresis.sc: 230 203 .. 77 456
+	msg for ydieresis.sc: Please inspect.
+	msg for ydieresis.sc: Need to inspect for possible loop/inflection:
+	msg for ydieresis.sc: 230 203 .. 77 456
+
+	msg for ydieresis.sc: Need to inspect unsmoothed transition between
+	msg for ydieresis.sc: 462 446 .. 325 224
+	msg for ydieresis.sc: and
+	msg for ydieresis.sc: 325 224 .. 340 56
+
+	msg for ydieresis.sc: Need to inspect unsmoothed transition between
+	msg for ydieresis.sc: 462 446 .. 325 224
+	msg for ydieresis.sc: and
+	msg for ydieresis.sc: 325 224 .. 340 56
+
+	msg for ydieresis.sc: Need to fix wrong orientation on subpath with original moveto at 414 37
+	msg for ydieresis.sc: Done.
+Checking aogonek.sc
+	msg for aogonek.sc: NOTE: 7 intersections found. Please inspect.
+	msg for aogonek.sc: Need to convert straight curve:
+	msg for aogonek.sc: 217 489 .. 224 470
+	msg for aogonek.sc: Done.
+	msg for aogonek.sc: Need to fix point(s) outside triangle by
+	msg for aogonek.sc: -4 units in X and 0 units in Y :
+	msg for aogonek.sc: 455 -174 .. 398 -197
+	msg for aogonek.sc: Done.
+	msg for aogonek.sc: Need to convert straight curve:
+	msg for aogonek.sc: 252 387 .. 315 208
+	msg for aogonek.sc: Done.
+Checking cacute.sc
+	msg for cacute.sc: Need to fix wrong orientation on subpath with original moveto at 468 20
+	msg for cacute.sc: Done.
+Checking cdotaccent.sc
+	msg for cdotaccent.sc: Need to fix wrong orientation on subpath with original moveto at 468 20
+	msg for cdotaccent.sc: Done.
+Checking eogonek.sc
+	msg for eogonek.sc: NOTE: 5 intersections found. Please inspect.
+	msg for eogonek.sc: Need to fix point(s) outside triangle by
+	msg for eogonek.sc: -4 units in X and 0 units in Y :
+	msg for eogonek.sc: 400 -174 .. 343 -197
+	msg for eogonek.sc: Done.
+	msg for eogonek.sc: Need to fix control point outside of endpoints:
+	msg for eogonek.sc: 467 -3 .. 496 136
+
+Checking gdotaccent.sc
+	msg for gdotaccent.sc: Need to inspect unsmoothed transition between
+	msg for gdotaccent.sc: 304 41 .. 402 68
+	msg for gdotaccent.sc: and
+	msg for gdotaccent.sc: 402 68 .. 411 132
+
+	msg for gdotaccent.sc: Need to inspect unsmoothed transition between
+	msg for gdotaccent.sc: 304 41 .. 402 68
+	msg for gdotaccent.sc: and
+	msg for gdotaccent.sc: 402 68 .. 411 132
+
+	msg for gdotaccent.sc: Need to fix wrong orientation on subpath with original moveto at 558 255
+	msg for gdotaccent.sc: Done.
+Checking hbar.sc
+	msg for hbar.sc: NOTE: 11 intersections found. Please inspect.
+	msg for hbar.sc: Need to convert straight curve:
+	msg for hbar.sc: 622 402 .. 565 401
+	msg for hbar.sc: Done.
+	msg for hbar.sc: Need to convert straight curve:
+	msg for hbar.sc: 109 401 .. 54 402
+	msg for hbar.sc: Done.
+	msg for hbar.sc: Need to convert straight curve:
+	msg for hbar.sc: 209 346 .. 327 346
+	msg for hbar.sc: Done.
+Checking lslash.sc
+	msg for lslash.sc: NOTE: 4 intersections found. Please inspect.
+	msg for lslash.sc: Need to inspect unsmoothed transition between
+	msg for lslash.sc: 394 341 .. 369 393
+	msg for lslash.sc: and
+	msg for lslash.sc: 369 393 .. 206 315
+
+	msg for lslash.sc: Need to inspect unsmoothed transition between
+	msg for lslash.sc: 394 341 .. 369 393
+	msg for lslash.sc: and
+	msg for lslash.sc: 369 393 .. 206 315
+
+	msg for lslash.sc: Need to fix point(s) outside triangle by
+	msg for lslash.sc: -1 units in X and 0 units in Y :
+	msg for lslash.sc: 65 200 .. 114 223
+	msg for lslash.sc: Done.
+	msg for lslash.sc: Need to fix control point outside of endpoints:
+	msg for lslash.sc: 457 -3 .. 486 136
+
+Checking nacute.sc
+	msg for nacute.sc: Need to fix point(s) outside triangle by
+	msg for nacute.sc: -2 units in X and 0 units in Y :
+	msg for nacute.sc: 239 520 .. 252 510
+	msg for nacute.sc: Done.
+	msg for nacute.sc: Need to fix coincident control points:
+	msg for nacute.sc: 252 510 .. 493 129
+	msg for nacute.sc: Please inspect.
+	msg for nacute.sc: Need to fix coincident control points:
+	msg for nacute.sc: 549 10 .. 541 -2
+	msg for nacute.sc: Please inspect.
+	msg for nacute.sc: Need to inspect for possible loop/inflection:
+	msg for nacute.sc: 549 10 .. 541 -2
+
+	msg for nacute.sc: Need to fix wrong orientation on subpath with original moveto at 244 37
+	msg for nacute.sc: Done.
+Checking oe.sc
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 447 514 .. 394 515
+	msg for oe.sc: and
+	msg for oe.sc: 394 515 .. 302 529
+
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 447 514 .. 394 515
+	msg for oe.sc: and
+	msg for oe.sc: 394 515 .. 302 529
+
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 301 -13 .. 378 0
+	msg for oe.sc: and
+	msg for oe.sc: 378 0 .. 623 0
+
+	msg for oe.sc: Need to fix control point outside of endpoints:
+	msg for oe.sc: 743 -3 .. 772 136
+
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 390 259 .. 375 70
+	msg for oe.sc: and
+	msg for oe.sc: 375 70 .. 302 43
+
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 301 473 .. 374 451
+	msg for oe.sc: and
+	msg for oe.sc: 374 451 .. 390 259
+
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 301 473 .. 374 451
+	msg for oe.sc: and
+	msg for oe.sc: 374 451 .. 390 259
+
+	msg for oe.sc: Need to inspect unsmoothed transition between
+	msg for oe.sc: 390 259 .. 375 70
+	msg for oe.sc: and
+	msg for oe.sc: 375 70 .. 302 43
+
+Checking racute.sc
+	msg for racute.sc: Need to fix wrong orientation on subpath with original moveto at 274 37
+	msg for racute.sc: Done.
+	msg for racute.sc: Need to fix wrong orientation on subpath with original moveto at 210 283
+	msg for racute.sc: Done.
+Checking sacute.sc
+	msg for sacute.sc: Need to fix wrong orientation on subpath with original moveto at 309 458
+	msg for sacute.sc: Done.
+Checking scedilla.sc
+	msg for scedilla.sc: NOTE: 2 intersections found. Please inspect.
+	msg for scedilla.sc: Need to inspect unsmoothed transition between
+	msg for scedilla.sc: 167 -245 .. 192 -285
+	msg for scedilla.sc: and
+	msg for scedilla.sc: 192 -285 .. 340 -107
+
+	msg for scedilla.sc: Need to inspect unsmoothed transition between
+	msg for scedilla.sc: 167 -245 .. 192 -285
+	msg for scedilla.sc: and
+	msg for scedilla.sc: 192 -285 .. 340 -107
+
+Checking scaron.sc
+Checking zdotaccent.sc
+	msg for zdotaccent.sc: Need to fix wrong orientation on subpath with original moveto at 144 385
+	msg for zdotaccent.sc: Done.
+Checking zcaron.sc
+Checking Scedilla
+	msg for Scedilla: NOTE: 2 intersections found. Please inspect.
+	msg for Scedilla: Need to fix coincident control points:
+	msg for Scedilla: 470 673 .. 278 702
+	msg for Scedilla: Please inspect.
+	msg for Scedilla: Need to inspect for possible loop/inflection:
+	msg for Scedilla: 470 673 .. 278 702
+
+	msg for Scedilla: Need to inspect unsmoothed transition between
+	msg for Scedilla: 193 -245 .. 218 -285
+	msg for Scedilla: and
+	msg for Scedilla: 218 -285 .. 366 -107
+
+	msg for Scedilla: Need to inspect unsmoothed transition between
+	msg for Scedilla: 193 -245 .. 218 -285
+	msg for Scedilla: and
+	msg for Scedilla: 218 -285 .. 366 -107
+
+Checking dollar.oldstyle
+	msg for dollar.oldstyle: NOTE: 10 intersections found. Please inspect.
+	msg for dollar.oldstyle: Need to convert straight curve:
+	msg for dollar.oldstyle: 269 544 .. 271 596
+	msg for dollar.oldstyle: Done.
+	msg for dollar.oldstyle: Need to fix coincident control points:
+	msg for dollar.oldstyle: 54 23 .. 187 -10
+	msg for dollar.oldstyle: Please inspect.
+	msg for dollar.oldstyle: Need to inspect for possible loop/inflection:
+	msg for dollar.oldstyle: 54 23 .. 187 -10
+
+	msg for dollar.oldstyle: Need to convert straight curve:
+	msg for dollar.oldstyle: 187 -10 .. 185 -80
+	msg for dollar.oldstyle: Done.
+	msg for dollar.oldstyle: Need to inspect unsmoothed transition between
+	msg for dollar.oldstyle: 187 -10 .. 185 -80
+	msg for dollar.oldstyle: and
+	msg for dollar.oldstyle: 185 -80 .. 210 -93
+
+Checking cent.oldstyle
+	msg for cent.oldstyle: NOTE: 7 intersections found. Please inspect.
+	msg for cent.oldstyle: Need to fix point(s) outside triangle by
+	msg for cent.oldstyle: 0 units in X and 3 units in Y :
+	msg for cent.oldstyle: 271 447 .. 275 524
+	msg for cent.oldstyle: Done.
+Checking sterling.oldstyle
+	msg for sterling.oldstyle: NOTE: 4 intersections found. Please inspect.
+	msg for sterling.oldstyle: Need to fix point(s) outside triangle by
+	msg for sterling.oldstyle: 0 units in X and -2 units in Y :
+	msg for sterling.oldstyle: 234 159 .. 218 248
+	msg for sterling.oldstyle: Done.
+	msg for sterling.oldstyle: Need to fix coincident control points:
+	msg for sterling.oldstyle: 61 48 .. 47 -2
+	msg for sterling.oldstyle: Please inspect.
+	msg for sterling.oldstyle: Need to inspect for possible loop/inflection:
+	msg for sterling.oldstyle: 61 48 .. 47 -2
+
+	msg for sterling.oldstyle: Need to inspect unsmoothed transition between
+	msg for sterling.oldstyle: 288 -23 .. 458 98
+	msg for sterling.oldstyle: and
+	msg for sterling.oldstyle: 458 98 .. 420 129
+
+	msg for sterling.oldstyle: Need to inspect unsmoothed transition between
+	msg for sterling.oldstyle: 288 -23 .. 458 98
+	msg for sterling.oldstyle: and
+	msg for sterling.oldstyle: 458 98 .. 420 129
+
+Checking currency.oldstyle
+Checking yen.oldstyle
+	msg for yen.oldstyle: NOTE: 8 intersections found. Please inspect.
+	msg for yen.oldstyle: Need to convert straight curve:
+	msg for yen.oldstyle: 217 210 .. 216 167
+	msg for yen.oldstyle: Done.
+	msg for yen.oldstyle: Need to convert straight curve:
+	msg for yen.oldstyle: 307 168 .. 307 209
+	msg for yen.oldstyle: Done.
+Checking florin.oldstyle
+	msg for florin.oldstyle: NOTE: 4 intersections found. Please inspect.
+Checking Euro.oldstyle
+	msg for Euro.oldstyle: NOTE: 8 intersections found. Please inspect.
+	msg for Euro.oldstyle: Need to convert straight curve:
+	msg for Euro.oldstyle: 92 256 .. 92 245
+	msg for Euro.oldstyle: Done.
+Checking percent.oldstyle
+	msg for percent.oldstyle: Need to inspect unsmoothed transition between
+	msg for percent.oldstyle: 433 277 .. 616 587
+	msg for percent.oldstyle: and
+	msg for percent.oldstyle: 616 587 .. 575 615
+
+	msg for percent.oldstyle: Need to inspect unsmoothed transition between
+	msg for percent.oldstyle: 433 277 .. 616 587
+	msg for percent.oldstyle: and
+	msg for percent.oldstyle: 616 587 .. 575 615
+
+Checking perthousand.oldstyle
+	msg for perthousand.oldstyle: Need to inspect unsmoothed transition between
+	msg for perthousand.oldstyle: 433 277 .. 616 587
+	msg for perthousand.oldstyle: and
+	msg for perthousand.oldstyle: 616 587 .. 575 615
+
+	msg for perthousand.oldstyle: Need to inspect unsmoothed transition between
+	msg for perthousand.oldstyle: 433 277 .. 616 587
+	msg for perthousand.oldstyle: and
+	msg for perthousand.oldstyle: 616 587 .. 575 615
+
+Checking dollar.taboldstyle
+	msg for dollar.taboldstyle: NOTE: 10 intersections found. Please inspect.
+	msg for dollar.taboldstyle: Need to convert straight curve:
+	msg for dollar.taboldstyle: 344 544 .. 346 596
+	msg for dollar.taboldstyle: Done.
+	msg for dollar.taboldstyle: Need to fix coincident control points:
+	msg for dollar.taboldstyle: 129 23 .. 262 -10
+	msg for dollar.taboldstyle: Please inspect.
+	msg for dollar.taboldstyle: Need to inspect for possible loop/inflection:
+	msg for dollar.taboldstyle: 129 23 .. 262 -10
+
+	msg for dollar.taboldstyle: Need to convert straight curve:
+	msg for dollar.taboldstyle: 262 -10 .. 260 -80
+	msg for dollar.taboldstyle: Done.
+	msg for dollar.taboldstyle: Need to inspect unsmoothed transition between
+	msg for dollar.taboldstyle: 262 -10 .. 260 -80
+	msg for dollar.taboldstyle: and
+	msg for dollar.taboldstyle: 260 -80 .. 285 -93
+
+Checking cent.taboldstyle
+	msg for cent.taboldstyle: NOTE: 7 intersections found. Please inspect.
+	msg for cent.taboldstyle: Need to fix point(s) outside triangle by
+	msg for cent.taboldstyle: 0 units in X and 3 units in Y :
+	msg for cent.taboldstyle: 344 447 .. 348 524
+	msg for cent.taboldstyle: Done.
+Checking sterling.taboldstyle
+	msg for sterling.taboldstyle: NOTE: 4 intersections found. Please inspect.
+	msg for sterling.taboldstyle: Need to fix point(s) outside triangle by
+	msg for sterling.taboldstyle: 0 units in X and -2 units in Y :
+	msg for sterling.taboldstyle: 293 159 .. 277 248
+	msg for sterling.taboldstyle: Done.
+	msg for sterling.taboldstyle: Need to fix coincident control points:
+	msg for sterling.taboldstyle: 120 48 .. 106 -2
+	msg for sterling.taboldstyle: Please inspect.
+	msg for sterling.taboldstyle: Need to inspect for possible loop/inflection:
+	msg for sterling.taboldstyle: 120 48 .. 106 -2
+
+	msg for sterling.taboldstyle: Need to inspect unsmoothed transition between
+	msg for sterling.taboldstyle: 347 -23 .. 517 98
+	msg for sterling.taboldstyle: and
+	msg for sterling.taboldstyle: 517 98 .. 479 129
+
+	msg for sterling.taboldstyle: Need to inspect unsmoothed transition between
+	msg for sterling.taboldstyle: 347 -23 .. 517 98
+	msg for sterling.taboldstyle: and
+	msg for sterling.taboldstyle: 517 98 .. 479 129
+
+Checking currency.taboldstyle
+Checking yen.taboldstyle
+	msg for yen.taboldstyle: NOTE: 8 intersections found. Please inspect.
+	msg for yen.taboldstyle: Need to convert straight curve:
+	msg for yen.taboldstyle: 241 210 .. 240 167
+	msg for yen.taboldstyle: Done.
+	msg for yen.taboldstyle: Need to convert straight curve:
+	msg for yen.taboldstyle: 331 168 .. 331 209
+	msg for yen.taboldstyle: Done.
+Checking florin.taboldstyle
+	msg for florin.taboldstyle: NOTE: 4 intersections found. Please inspect.
+Checking Euro.taboldstyle
+	msg for Euro.taboldstyle: NOTE: 8 intersections found. Please inspect.
+	msg for Euro.taboldstyle: Need to convert straight curve:
+	msg for Euro.taboldstyle: 109 256 .. 109 245
+	msg for Euro.taboldstyle: Done.
+Checking dollar.fitted
+	msg for dollar.fitted: NOTE: 10 intersections found. Please inspect.
+	msg for dollar.fitted: Need to convert straight curve:
+	msg for dollar.fitted: 326 674 .. 328 747
+	msg for dollar.fitted: Done.
+	msg for dollar.fitted: Need to convert straight curve:
+	msg for dollar.fitted: 255 737 .. 256 673
+	msg for dollar.fitted: Done.
+	msg for dollar.fitted: Need to fix coincident control points:
+	msg for dollar.fitted: 66 29 .. 239 -12
+	msg for dollar.fitted: Please inspect.
+	msg for dollar.fitted: Need to inspect for possible loop/inflection:
+	msg for dollar.fitted: 66 29 .. 239 -12
+
+	msg for dollar.fitted: Need to convert straight curve:
+	msg for dollar.fitted: 239 -12 .. 236 -105
+	msg for dollar.fitted: Done.
+	msg for dollar.fitted: Need to inspect unsmoothed transition between
+	msg for dollar.fitted: 239 -12 .. 236 -105
+	msg for dollar.fitted: and
+	msg for dollar.fitted: 236 -105 .. 261 -118
+
+	msg for dollar.fitted: Need to convert straight curve:
+	msg for dollar.fitted: 314 -101 .. 311 -9
+	msg for dollar.fitted: Done.
+Checking cent.fitted
+	msg for cent.fitted: NOTE: 7 intersections found. Please inspect.
+	msg for cent.fitted: Need to convert straight curve:
+	msg for cent.fitted: 256 652 .. 258 563
+	msg for cent.fitted: Done.
+Checking sterling.fitted
+	msg for sterling.fitted: NOTE: 5 intersections found. Please inspect.
+	msg for sterling.fitted: Need to fix coincident control points:
+	msg for sterling.fitted: 63 60 .. 46 0
+	msg for sterling.fitted: Please inspect.
+	msg for sterling.fitted: Need to inspect for possible loop/inflection:
+	msg for sterling.fitted: 63 60 .. 46 0
+
+	msg for sterling.fitted: Need to inspect unsmoothed transition between
+	msg for sterling.fitted: 335 -27 .. 543 118
+	msg for sterling.fitted: and
+	msg for sterling.fitted: 543 118 .. 500 153
+
+	msg for sterling.fitted: Need to inspect unsmoothed transition between
+	msg for sterling.fitted: 335 -27 .. 543 118
+	msg for sterling.fitted: and
+	msg for sterling.fitted: 543 118 .. 500 153
+
+Checking yen.fitted
+	msg for yen.fitted: NOTE: 8 intersections found. Please inspect.
+	msg for yen.fitted: Need to fix coincident control points:
+	msg for yen.fitted: 321 363 .. 194 605
+	msg for yen.fitted: Please inspect.
+	msg for yen.fitted: Need to inspect for possible loop/inflection:
+	msg for yen.fitted: 321 363 .. 194 605
+
+	msg for yen.fitted: Need to convert straight curve:
+	msg for yen.fitted: 264 263 .. 264 208
+	msg for yen.fitted: Done.
+	msg for yen.fitted: Need to convert straight curve:
+	msg for yen.fitted: 354 209 .. 353 263
+	msg for yen.fitted: Done.
+Checking florin.fitted
+	msg for florin.fitted: NOTE: 4 intersections found. Please inspect.
+Checking Euro.fitted
+	msg for Euro.fitted: NOTE: 8 intersections found. Please inspect.
+	msg for Euro.fitted: Need to convert straight curve:
+	msg for Euro.fitted: 218 306 .. 218 326
+	msg for Euro.fitted: Done.
+	msg for Euro.fitted: Need to fix point(s) outside triangle by
+	msg for Euro.fitted: -3 units in X and 0 units in Y :
+	msg for Euro.fitted: 607 635 .. 415 675
+	msg for Euro.fitted: Done.
+	msg for Euro.fitted: Need to convert straight curve:
+	msg for Euro.fitted: 105 309 .. 105 306
+	msg for Euro.fitted: Done.
+Checking currency.fitted
+	msg for currency.fitted: NOTE: 8 intersections found. Please inspect.
+Checking parenleft.superior
+Checking parenright.superior
+Checking parenleft.numerator
+Checking parenright.numerator
+Checking parenleft.denominator
+Checking parenright.denominator
+Checking parenleft.inferior
+Checking parenright.inferior
+Checking guillemotleft.cap
+Checking guillemotright.cap
+Checking guilsinglleft.cap
+Checking guilsinglright.cap
+Checking f.alt
+Checking A.sc
+	msg for A.sc: NOTE: 5 intersections found. Please inspect.
+	msg for A.sc: Need to convert straight curve:
+	msg for A.sc: 217 489 .. 224 470
+	msg for A.sc: Done.
+	msg for A.sc: Need to convert straight curve:
+	msg for A.sc: 252 387 .. 315 208
+	msg for A.sc: Done.
+Checking B.sc
+Checking C.sc
+Checking D.sc
+Checking E.sc
+	msg for E.sc: NOTE: 3 intersections found. Please inspect.
+	msg for E.sc: Need to fix control point outside of endpoints:
+	msg for E.sc: 467 -3 .. 496 136
+
+Checking F.sc
+	msg for F.sc: NOTE: 3 intersections found. Please inspect.
+Checking G.sc
+	msg for G.sc: Need to inspect unsmoothed transition between
+	msg for G.sc: 411 132 .. 402 68
+	msg for G.sc: and
+	msg for G.sc: 402 68 .. 304 41
+
+	msg for G.sc: Need to inspect unsmoothed transition between
+	msg for G.sc: 411 132 .. 402 68
+	msg for G.sc: and
+	msg for G.sc: 402 68 .. 304 41
+
+Checking H.sc
+	msg for H.sc: NOTE: 4 intersections found. Please inspect.
+Checking I.sc
+Checking J.sc
+Checking K.sc
+	msg for K.sc: NOTE: 3 intersections found. Please inspect.
+Checking L.sc
+	msg for L.sc: Need to fix control point outside of endpoints:
+	msg for L.sc: 457 -3 .. 486 136
+
+Checking M.sc
+	msg for M.sc: Need to fix coincident control points:
+	msg for M.sc: 411 181 .. 267 510
+	msg for M.sc: Please inspect.
+	msg for M.sc: Need to inspect for possible loop/inflection:
+	msg for M.sc: 411 181 .. 267 510
+
+	msg for M.sc: Need to fix coincident control points:
+	msg for M.sc: 195 417 .. 382 -1
+	msg for M.sc: Please inspect.
+Checking N.sc
+	msg for N.sc: Need to fix coincident control points:
+	msg for N.sc: 541 -2 .. 549 10
+	msg for N.sc: Please inspect.
+	msg for N.sc: Need to fix coincident control points:
+	msg for N.sc: 493 129 .. 252 510
+	msg for N.sc: Please inspect.
+	msg for N.sc: Need to inspect for possible loop/inflection:
+	msg for N.sc: 493 129 .. 252 510
+
+	msg for N.sc: Need to fix point(s) outside triangle by
+	msg for N.sc: -2 units in X and 0 units in Y :
+	msg for N.sc: 252 510 .. 239 520
+	msg for N.sc: Done.
+Checking O.sc
+Checking P.sc
+Checking Q.sc
+	msg for Q.sc: NOTE: 2 intersections found. Please inspect.
+Checking R.sc
+Checking S.sc
+Checking T.sc
+Checking U.sc
+Checking V.sc
+Checking W.sc
+	msg for W.sc: NOTE: 1 intersection found. Please inspect. (*This may indicate a path with wrong orientation was removed during the 'union' operation. You can check this by re-running with the '-V' switch on the original data.)
+Checking X.sc
+Checking Y.sc
+	msg for Y.sc: Need to inspect unsmoothed transition between
+	msg for Y.sc: 340 56 .. 325 224
+	msg for Y.sc: and
+	msg for Y.sc: 325 224 .. 462 446
+
+	msg for Y.sc: Need to inspect unsmoothed transition between
+	msg for Y.sc: 340 56 .. 325 224
+	msg for Y.sc: and
+	msg for Y.sc: 325 224 .. 462 446
+
+	msg for Y.sc: Need to fix coincident control points:
+	msg for Y.sc: 77 456 .. 230 203
+	msg for Y.sc: Please inspect.
+Checking Z.sc
+Checking Agrave.sc
+	msg for Agrave.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Agrave.sc: Need to convert straight curve:
+	msg for Agrave.sc: 217 489 .. 224 470
+	msg for Agrave.sc: Done.
+	msg for Agrave.sc: Need to convert straight curve:
+	msg for Agrave.sc: 252 387 .. 315 208
+	msg for Agrave.sc: Done.
+Checking Aacute.sc
+	msg for Aacute.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Aacute.sc: Need to convert straight curve:
+	msg for Aacute.sc: 217 489 .. 224 470
+	msg for Aacute.sc: Done.
+	msg for Aacute.sc: Need to convert straight curve:
+	msg for Aacute.sc: 252 387 .. 315 208
+	msg for Aacute.sc: Done.
+Checking Acircumflex.sc
+	msg for Acircumflex.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Acircumflex.sc: Need to convert straight curve:
+	msg for Acircumflex.sc: 217 489 .. 224 470
+	msg for Acircumflex.sc: Done.
+	msg for Acircumflex.sc: Need to convert straight curve:
+	msg for Acircumflex.sc: 252 387 .. 315 208
+	msg for Acircumflex.sc: Done.
+Checking Atilde.sc
+	msg for Atilde.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Atilde.sc: Need to convert straight curve:
+	msg for Atilde.sc: 217 489 .. 224 470
+	msg for Atilde.sc: Done.
+	msg for Atilde.sc: Need to convert straight curve:
+	msg for Atilde.sc: 252 387 .. 315 208
+	msg for Atilde.sc: Done.
+Checking Adieresis.sc
+	msg for Adieresis.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Adieresis.sc: Need to convert straight curve:
+	msg for Adieresis.sc: 217 489 .. 224 470
+	msg for Adieresis.sc: Done.
+	msg for Adieresis.sc: Need to convert straight curve:
+	msg for Adieresis.sc: 252 387 .. 315 208
+	msg for Adieresis.sc: Done.
+Checking Aring.sc
+	msg for Aring.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Aring.sc: Need to convert straight curve:
+	msg for Aring.sc: 217 489 .. 224 470
+	msg for Aring.sc: Done.
+	msg for Aring.sc: Need to convert straight curve:
+	msg for Aring.sc: 252 387 .. 315 208
+	msg for Aring.sc: Done.
+Checking AE.sc
+	msg for AE.sc: NOTE: 7 intersections found. Please inspect.
+	msg for AE.sc: Need to fix control point outside of endpoints:
+	msg for AE.sc: 711 -3 .. 740 136
+
+Checking Ccedilla.sc
+	msg for Ccedilla.sc: NOTE: 2 intersections found. Please inspect.
+	msg for Ccedilla.sc: Need to inspect unsmoothed transition between
+	msg for Ccedilla.sc: 242 -245 .. 267 -285
+	msg for Ccedilla.sc: and
+	msg for Ccedilla.sc: 267 -285 .. 415 -107
+
+	msg for Ccedilla.sc: Need to inspect unsmoothed transition between
+	msg for Ccedilla.sc: 242 -245 .. 267 -285
+	msg for Ccedilla.sc: and
+	msg for Ccedilla.sc: 267 -285 .. 415 -107
+
+Checking Egrave.sc
+	msg for Egrave.sc: NOTE: 3 intersections found. Please inspect.
+	msg for Egrave.sc: Need to fix control point outside of endpoints:
+	msg for Egrave.sc: 467 -3 .. 496 136
+
+Checking Eacute.sc
+	msg for Eacute.sc: NOTE: 3 intersections found. Please inspect.
+	msg for Eacute.sc: Need to fix control point outside of endpoints:
+	msg for Eacute.sc: 467 -3 .. 496 136
+
+Checking Ecircumflex.sc
+	msg for Ecircumflex.sc: NOTE: 3 intersections found. Please inspect.
+	msg for Ecircumflex.sc: Need to fix control point outside of endpoints:
+	msg for Ecircumflex.sc: 467 -3 .. 496 136
+
+Checking Edieresis.sc
+	msg for Edieresis.sc: NOTE: 3 intersections found. Please inspect.
+	msg for Edieresis.sc: Need to fix control point outside of endpoints:
+	msg for Edieresis.sc: 467 -3 .. 496 136
+
+Checking Igrave.sc
+	msg for Igrave.sc: Need to fix wrong orientation on subpath with original moveto at 51 519
+	msg for Igrave.sc: Done.
+Checking Iacute.sc
+	msg for Iacute.sc: Need to fix wrong orientation on subpath with original moveto at 51 519
+	msg for Iacute.sc: Done.
+Checking Icircumflex.sc
+Checking Idieresis.sc
+	msg for Idieresis.sc: Need to fix wrong orientation on subpath with original moveto at 51 519
+	msg for Idieresis.sc: Done.
+Checking Eth.sc
+	msg for Eth.sc: NOTE: 3 intersections found. Please inspect.
+	msg for Eth.sc: Need to fix point(s) outside triangle by
+	msg for Eth.sc: -5 units in X and 0 units in Y :
+	msg for Eth.sc: 114 292 .. 54 294
+	msg for Eth.sc: Done.
+Checking Ntilde.sc
+	msg for Ntilde.sc: Need to fix point(s) outside triangle by
+	msg for Ntilde.sc: -2 units in X and 0 units in Y :
+	msg for Ntilde.sc: 239 520 .. 252 510
+	msg for Ntilde.sc: Done.
+	msg for Ntilde.sc: Need to fix coincident control points:
+	msg for Ntilde.sc: 252 510 .. 493 129
+	msg for Ntilde.sc: Please inspect.
+	msg for Ntilde.sc: Need to fix coincident control points:
+	msg for Ntilde.sc: 549 10 .. 541 -2
+	msg for Ntilde.sc: Please inspect.
+	msg for Ntilde.sc: Need to inspect for possible loop/inflection:
+	msg for Ntilde.sc: 549 10 .. 541 -2
+
+	msg for Ntilde.sc: Need to fix wrong orientation on subpath with original moveto at 244 37
+	msg for Ntilde.sc: Done.
+Checking Ograve.sc
+Checking Oacute.sc
+Checking Ocircumflex.sc
+Checking Otilde.sc
+Checking Odieresis.sc
+Checking Oslash.sc
+	msg for Oslash.sc: NOTE: 6 intersections found. Please inspect.
+	msg for Oslash.sc: Need to convert straight curve:
+	msg for Oslash.sc: 107 68 .. 63 10
+	msg for Oslash.sc: Done.
+	msg for Oslash.sc: Need to convert straight curve:
+	msg for Oslash.sc: 115 -27 .. 154 27
+	msg for Oslash.sc: Done.
+Checking Ugrave.sc
+	msg for Ugrave.sc: Need to fix wrong orientation on subpath with original moveto at 520 456
+	msg for Ugrave.sc: Done.
+Checking Uacute.sc
+	msg for Uacute.sc: Need to fix wrong orientation on subpath with original moveto at 520 456
+	msg for Uacute.sc: Done.
+Checking Ucircumflex.sc
+Checking Udieresis.sc
+	msg for Udieresis.sc: Need to fix wrong orientation on subpath with original moveto at 520 456
+	msg for Udieresis.sc: Done.
+Checking Yacute.sc
+	msg for Yacute.sc: Need to fix coincident control points:
+	msg for Yacute.sc: 230 203 .. 77 456
+	msg for Yacute.sc: Please inspect.
+	msg for Yacute.sc: Need to inspect for possible loop/inflection:
+	msg for Yacute.sc: 230 203 .. 77 456
+
+	msg for Yacute.sc: Need to inspect unsmoothed transition between
+	msg for Yacute.sc: 462 446 .. 325 224
+	msg for Yacute.sc: and
+	msg for Yacute.sc: 325 224 .. 340 56
+
+	msg for Yacute.sc: Need to inspect unsmoothed transition between
+	msg for Yacute.sc: 462 446 .. 325 224
+	msg for Yacute.sc: and
+	msg for Yacute.sc: 325 224 .. 340 56
+
+	msg for Yacute.sc: Need to fix wrong orientation on subpath with original moveto at 414 37
+	msg for Yacute.sc: Done.
+Checking Thorn.sc
+Checking Ydieresis.sc
+	msg for Ydieresis.sc: Need to fix coincident control points:
+	msg for Ydieresis.sc: 230 203 .. 77 456
+	msg for Ydieresis.sc: Please inspect.
+	msg for Ydieresis.sc: Need to inspect for possible loop/inflection:
+	msg for Ydieresis.sc: 230 203 .. 77 456
+
+	msg for Ydieresis.sc: Need to inspect unsmoothed transition between
+	msg for Ydieresis.sc: 462 446 .. 325 224
+	msg for Ydieresis.sc: and
+	msg for Ydieresis.sc: 325 224 .. 340 56
+
+	msg for Ydieresis.sc: Need to inspect unsmoothed transition between
+	msg for Ydieresis.sc: 462 446 .. 325 224
+	msg for Ydieresis.sc: and
+	msg for Ydieresis.sc: 325 224 .. 340 56
+
+	msg for Ydieresis.sc: Need to fix wrong orientation on subpath with original moveto at 414 37
+	msg for Ydieresis.sc: Done.
+Checking Aogonek.sc
+	msg for Aogonek.sc: NOTE: 7 intersections found. Please inspect.
+	msg for Aogonek.sc: Need to convert straight curve:
+	msg for Aogonek.sc: 217 489 .. 224 470
+	msg for Aogonek.sc: Done.
+	msg for Aogonek.sc: Need to fix point(s) outside triangle by
+	msg for Aogonek.sc: -4 units in X and 0 units in Y :
+	msg for Aogonek.sc: 455 -174 .. 398 -197
+	msg for Aogonek.sc: Done.
+	msg for Aogonek.sc: Need to convert straight curve:
+	msg for Aogonek.sc: 252 387 .. 315 208
+	msg for Aogonek.sc: Done.
+Checking Cacute.sc
+	msg for Cacute.sc: Need to fix wrong orientation on subpath with original moveto at 468 20
+	msg for Cacute.sc: Done.
+Checking Cdotaccent.sc
+	msg for Cdotaccent.sc: Need to fix wrong orientation on subpath with original moveto at 468 20
+	msg for Cdotaccent.sc: Done.
+Checking Eogonek.sc
+	msg for Eogonek.sc: NOTE: 5 intersections found. Please inspect.
+	msg for Eogonek.sc: Need to fix point(s) outside triangle by
+	msg for Eogonek.sc: -4 units in X and 0 units in Y :
+	msg for Eogonek.sc: 400 -174 .. 343 -197
+	msg for Eogonek.sc: Done.
+	msg for Eogonek.sc: Need to fix control point outside of endpoints:
+	msg for Eogonek.sc: 467 -3 .. 496 136
+
+Checking Gdotaccent.sc
+	msg for Gdotaccent.sc: Need to inspect unsmoothed transition between
+	msg for Gdotaccent.sc: 304 41 .. 402 68
+	msg for Gdotaccent.sc: and
+	msg for Gdotaccent.sc: 402 68 .. 411 132
+
+	msg for Gdotaccent.sc: Need to inspect unsmoothed transition between
+	msg for Gdotaccent.sc: 304 41 .. 402 68
+	msg for Gdotaccent.sc: and
+	msg for Gdotaccent.sc: 402 68 .. 411 132
+
+	msg for Gdotaccent.sc: Need to fix wrong orientation on subpath with original moveto at 558 255
+	msg for Gdotaccent.sc: Done.
+Checking Hbar.sc
+	msg for Hbar.sc: NOTE: 11 intersections found. Please inspect.
+	msg for Hbar.sc: Need to convert straight curve:
+	msg for Hbar.sc: 622 402 .. 565 401
+	msg for Hbar.sc: Done.
+	msg for Hbar.sc: Need to convert straight curve:
+	msg for Hbar.sc: 109 401 .. 54 402
+	msg for Hbar.sc: Done.
+	msg for Hbar.sc: Need to convert straight curve:
+	msg for Hbar.sc: 209 346 .. 327 346
+	msg for Hbar.sc: Done.
+Checking Lslash.sc
+	msg for Lslash.sc: NOTE: 4 intersections found. Please inspect.
+	msg for Lslash.sc: Need to inspect unsmoothed transition between
+	msg for Lslash.sc: 394 341 .. 369 393
+	msg for Lslash.sc: and
+	msg for Lslash.sc: 369 393 .. 206 315
+
+	msg for Lslash.sc: Need to inspect unsmoothed transition between
+	msg for Lslash.sc: 394 341 .. 369 393
+	msg for Lslash.sc: and
+	msg for Lslash.sc: 369 393 .. 206 315
+
+	msg for Lslash.sc: Need to fix point(s) outside triangle by
+	msg for Lslash.sc: -1 units in X and 0 units in Y :
+	msg for Lslash.sc: 65 200 .. 114 223
+	msg for Lslash.sc: Done.
+	msg for Lslash.sc: Need to fix control point outside of endpoints:
+	msg for Lslash.sc: 457 -3 .. 486 136
+
+Checking Nacute.sc
+	msg for Nacute.sc: Need to fix point(s) outside triangle by
+	msg for Nacute.sc: -2 units in X and 0 units in Y :
+	msg for Nacute.sc: 239 520 .. 252 510
+	msg for Nacute.sc: Done.
+	msg for Nacute.sc: Need to fix coincident control points:
+	msg for Nacute.sc: 252 510 .. 493 129
+	msg for Nacute.sc: Please inspect.
+	msg for Nacute.sc: Need to fix coincident control points:
+	msg for Nacute.sc: 549 10 .. 541 -2
+	msg for Nacute.sc: Please inspect.
+	msg for Nacute.sc: Need to inspect for possible loop/inflection:
+	msg for Nacute.sc: 549 10 .. 541 -2
+
+	msg for Nacute.sc: Need to fix wrong orientation on subpath with original moveto at 244 37
+	msg for Nacute.sc: Done.
+Checking OE.sc
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 447 514 .. 394 515
+	msg for OE.sc: and
+	msg for OE.sc: 394 515 .. 302 529
+
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 447 514 .. 394 515
+	msg for OE.sc: and
+	msg for OE.sc: 394 515 .. 302 529
+
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 301 -13 .. 378 0
+	msg for OE.sc: and
+	msg for OE.sc: 378 0 .. 623 0
+
+	msg for OE.sc: Need to fix control point outside of endpoints:
+	msg for OE.sc: 743 -3 .. 772 136
+
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 390 259 .. 375 70
+	msg for OE.sc: and
+	msg for OE.sc: 375 70 .. 302 43
+
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 301 473 .. 374 451
+	msg for OE.sc: and
+	msg for OE.sc: 374 451 .. 390 259
+
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 301 473 .. 374 451
+	msg for OE.sc: and
+	msg for OE.sc: 374 451 .. 390 259
+
+	msg for OE.sc: Need to inspect unsmoothed transition between
+	msg for OE.sc: 390 259 .. 375 70
+	msg for OE.sc: and
+	msg for OE.sc: 375 70 .. 302 43
+
+Checking Racute.sc
+	msg for Racute.sc: Need to fix wrong orientation on subpath with original moveto at 274 37
+	msg for Racute.sc: Done.
+	msg for Racute.sc: Need to fix wrong orientation on subpath with original moveto at 210 283
+	msg for Racute.sc: Done.
+Checking Sacute.sc
+	msg for Sacute.sc: Need to fix wrong orientation on subpath with original moveto at 309 458
+	msg for Sacute.sc: Done.
+Checking Scedilla.sc
+	msg for Scedilla.sc: NOTE: 2 intersections found. Please inspect.
+	msg for Scedilla.sc: Need to inspect unsmoothed transition between
+	msg for Scedilla.sc: 167 -245 .. 192 -285
+	msg for Scedilla.sc: and
+	msg for Scedilla.sc: 192 -285 .. 340 -107
+
+	msg for Scedilla.sc: Need to inspect unsmoothed transition between
+	msg for Scedilla.sc: 167 -245 .. 192 -285
+	msg for Scedilla.sc: and
+	msg for Scedilla.sc: 192 -285 .. 340 -107
+
+Checking Scaron.sc
+Checking Zdotaccent.sc
+	msg for Zdotaccent.sc: Need to fix wrong orientation on subpath with original moveto at 144 385
+	msg for Zdotaccent.sc: Done.
+Checking Zcaron.sc
+Writing changed file font.pfa
+
+Done with font font.pfa. End time: Mon Jul  7 00:52:23 2008.

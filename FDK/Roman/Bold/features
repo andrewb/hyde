@@ -1,0 +1,22 @@
+table head {
+	FontRevision  1.000;
+} head;
+
+include (../features.family);
+
+feature kern {
+	include (features.kern);
+} kern;
+
+table OS/2 {
+     FSType         8;
+     TypoAscender   770;
+     TypoDescender -230;
+     TypoLineGap	200;
+     XHeight        485;
+     CapHeight      691;
+     WeightClass    700;
+     WidthClass     5;
+     Vendor         "ab  ";
+  } OS/2;
+  

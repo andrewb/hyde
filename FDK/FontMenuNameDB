@@ -1,0 +1,17 @@
+[Hyde-Regular]
+	f=Hyde
+	s=Regular
+	c=Hyde
+	c=1,Hyde
+	
+[Hyde-Italic]
+	f=Hyde
+	s=Italic
+	c=Hyde
+	c=1,Hyde Ital
+
+[Hyde-Bold]
+	f=Hyde
+	s=Bold
+	c=Hyde
+	c=1,Hyde Bold

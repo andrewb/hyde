@@ -1,0 +1,6 @@
+InputFontPath	/Users/andrewberry/Desktop/MATD/Practical/Hyde/Italic/italic/font.pfa
+ReleaseMode	true
+FeaturePath	features
+FontMenuDBPath	../../FontMenuNameDB
+GlyphAliasDBPath	../../GlyphOrderAndAliasDB
+IsItalicStyle	true

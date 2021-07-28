@@ -1,0 +1,6 @@
+InputFontPath	/Users/andrewberry/Desktop/MATD/Practical/Hyde/Roman/Bold/font.pfa
+ReleaseMode	true
+FeaturePath	features
+FontMenuDBPath	../../FontMenuNameDB
+GlyphAliasDBPath	../../GlyphOrderAndAliasDB
+IsBoldStyle	true
