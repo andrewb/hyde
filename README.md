@@ -1,6 +1,8 @@
-<img src="https://user-images.githubusercontent.com/1486298/127475794-73e47a01-4237-4ff7-ad17-b0a12d66dbcd.png" width="320" alt="Hyde - Typeface" />
+<img src="https://user-images.githubusercontent.com/1486298/127476773-4b6b2c88-bab8-43bf-95b7-ed13fa02245b.png" width="320" alt="Hyde - Typeface" />
 
-Hyde is a serif typeface designed in 2008 as part of the MA Typeface Design program at The University of Reading. Released under the [SIL Open Font License (OFL), 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL#2855b85f).
+Hyde is a serif typeface designed in 2008 as part of the MA Typeface Design program at The University of Reading.
+
+Released under the [SIL Open Font License (OFL), 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL#2855b85f).
 
 [**Hyde Specimen**](https://andrewb.github.io/hyde/AndrewBerry_hyde_specimen.pdf)
 
